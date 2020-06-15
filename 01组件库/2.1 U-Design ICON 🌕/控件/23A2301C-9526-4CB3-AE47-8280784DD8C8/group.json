@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 277,
+    "height": 450,
     "width": 151,
     "x": -161,
     "y": -6
@@ -43,6 +43,10 @@
     {
       "class": "text",
       "id": "3B8E6EA1-A826-4105-8720-4E44F79F8E5A"
+    },
+    {
+      "class": "text",
+      "id": "0ADC922E-D5A4-4560-BA0A-161E685F0A1A"
     }
   ],
   "name": "Titles",
