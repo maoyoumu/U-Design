@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 480,
+  "changeIdentifier": 600,
   "clippingMaskMode": 0,
-  "do_objectID": "6B4B3A35-5673-46C0-A6B9-81BA9BAB1359",
+  "do_objectID": "C8AAB63B-D992-4A17-85A7-9EA98614EFA8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 119,
+    "x": 158,
     "y": 248
   },
   "grid": {
@@ -39,7 +39,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,16 +60,16 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "99742174-5E02-4BB9-B095-4B4530483CB6"
+      "id": "5E95878C-472B-4E8D-8DA4-460A2BFE7CD2"
     }
   ],
-  "name": "02 状态类/提示",
+  "name": "02 状态类/信息",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "99742174-5E02-4BB9-B095-4B4530483CB6_layerStyle"
+      "overrideName": "5E95878C-472B-4E8D-8DA4-460A2BFE7CD2_layerStyle"
     }
   ],
   "presetDictionary": {
@@ -113,7 +113,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "04A29EBA-76A7-412F-B68C-8F3DEEB9C643",
+    "do_objectID": "3B32DED9-01E3-4A1A-B9F1-828D7A79E49A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -125,7 +125,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7CA73BF8-7696-4463-BED5-F3D522D208B5",
+  "symbolID": "00ADCE85-ECA3-4CBE-8D61-9A6F50E7C3D3",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
