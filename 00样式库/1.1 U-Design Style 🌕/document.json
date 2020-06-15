@@ -24,6 +24,117 @@
   "colorSpace": 1,
   "do_objectID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
   "foreignLayerStyles": [
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "B158DB45-EC3B-4877-AA2E-697D7673920D",
+      "libraryID": "93D3A9EE-5891-41A9-8062-2071D4CD0EA2",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "9200C8BB-104D-4890-AA24-C1C375B8E1BA",
+        "name": "色卡/00常规色/01品牌色/品牌色6",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "F6827386-B854-4756-B3B7-74F2EBEEA818",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9882352941176471,
+                "green": 0.5333333333333333,
+                "red": 0.392156862745098
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "DF33B6A1-A739-4759-A6B9-597E5FF5ADA5",
+      "sourceLibraryName": "3.1 U-Design Library 🌕",
+      "symbolPrivate": false
+    }
   ],
   "foreignSymbols": [
   ],
@@ -40,7 +151,18 @@
     "version": 125
   },
   "pages": [
-    "页面 1"
+    "Brand（原色）",
+    "Colors（通用场景）",
+    "Shadow（阴影）",
+    "Typography （所有字符）",
+    "组件应用",
+    "Buttons（按钮）",
+    "Card（卡片）",
+    "Input（输入框） ",
+    "Modal（弹窗）",
+    "MENU（菜单）",
+    "Progress Bar（进度条）",
+    "Steps（步骤条）"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
