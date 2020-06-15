@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1787EAD8-9D94-41D2-9B77-D2CD0604E12E",
+  "do_objectID": "52DAD721-E1B2-4E57-9086-737930615CE7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
+    "height": 19.09090909090909,
     "width": 20,
     "x": 2,
-    "y": 2
+    "y": 2.000000000000114
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,16 +33,44 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "4260EB35-5DCD-4E63-89A8-127658ADFE9D"
+      "class": "shapeGroup",
+      "id": "EC290539-599D-4EAE-A0E8-9D6752484C5D"
     },
     {
-      "class": "rectangle",
-      "id": "E91F6D64-1535-472F-918E-BAA0E7E4E79C"
+      "class": "oval",
+      "id": "3F3CD55F-05E5-4CD9-8585-AAF6593CF3B0"
+    },
+    {
+      "class": "oval",
+      "id": "F81F179F-B420-4CB8-96F8-8A34DE71AC92"
+    },
+    {
+      "class": "oval",
+      "id": "48BA0A90-8E53-4A96-9468-6490C04A3F43"
+    },
+    {
+      "class": "oval",
+      "id": "5FA5905B-0889-498D-AB57-EEBE7C0002BF"
+    },
+    {
+      "class": "oval",
+      "id": "A91198C7-9B0A-45BE-AF7C-4B13AD0A4A38"
+    },
+    {
+      "class": "oval",
+      "id": "988249BD-E560-4D8A-9ED1-35E96085E3EE"
+    },
+    {
+      "class": "oval",
+      "id": "885D105F-91B2-4353-B184-E5EDA03BDFDD"
+    },
+    {
+      "class": "oval",
+      "id": "DE99CC41-2645-4B31-9C1B-CAF8427A3E74"
     }
   ],
-  "name": "- IOCON颜色",
-  "nameIsFixed": true,
+  "name": "形状结合",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -82,7 +110,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "69DFEC96-90AF-469B-B48B-51800B501F1F",
+    "do_objectID": "44A57090-6D7C-4D93-9BDE-F5609C21CECD",
     "endMarkerType": 0,
     "fills": [
       {

@@ -1,8 +1,8 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "1787EAD8-9D94-41D2-9B77-D2CD0604E12E",
+  "do_objectID": "EC290539-599D-4EAE-A0E8-9D6752484C5D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
+    "height": 19.09090909090909,
     "width": 20,
-    "x": 2,
-    "y": 2
+    "x": 0,
+    "y": 3.552713678800501e-15
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,20 +33,23 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "4260EB35-5DCD-4E63-89A8-127658ADFE9D"
+      "class": "shapePath",
+      "id": "8204E1DC-7EC2-4900-A167-5B0378DC6ADF"
     },
     {
-      "class": "rectangle",
-      "id": "E91F6D64-1535-472F-918E-BAA0E7E4E79C"
+      "class": "shapePath",
+      "id": "2E62C818-FD3F-4DAD-8908-0F39F1DE3709"
+    },
+    {
+      "class": "shapePath",
+      "id": "B5DC40A1-5C2F-41CF-B47A-C6A45E879D1B"
     }
   ],
-  "name": "- IOCON颜色",
-  "nameIsFixed": true,
+  "name": "形状",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "D5963226-3E42-43DD-9E57-70B878E174BE",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -74,7 +77,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -82,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "69DFEC96-90AF-469B-B48B-51800B501F1F",
+    "do_objectID": "430DEA31-3209-4311-A601-0291FA904CFF",
     "endMarkerType": 0,
     "fills": [
       {
@@ -90,9 +93,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4588235294117647,
-          "green": 0.3764705882352942,
-          "red": 0.3215686274509804
+          "blue": 0.01568627450980392,
+          "green": 0.01568627450980392,
+          "red": 0.0196078431372549
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -131,11 +134,6 @@
           ],
           "to": "{0.5, 1}"
         },
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref": "images/d08c1da1c88ba69c0bea5c9bc165b7413eec1d1d.png",
-          "_ref_class": "MSImageData"
-        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -149,7 +147,7 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   },
-  "windingRule": 1
+  "windingRule": 0
 }
