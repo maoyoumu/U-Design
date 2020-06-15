@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1373,
+  "changeIdentifier": 1380,
   "clippingMaskMode": 0,
   "do_objectID": "AE9E02F4-4546-41DE-B437-CE2C47ED02F0",
   "exportOptions": {
@@ -66,6 +66,11 @@
   "name": "01 操作类/前进/大",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F2C0BE74-7362-4751-AC00-A291738A0405_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

@@ -46,7 +46,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": -45,
-  "sharedStyleID": "D5963226-3E42-43DD-9E57-70B878E174BE",
+  "sharedStyleID": "3F618762-7F54-413A-9995-F238A807C1AC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -90,9 +90,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4588235294117647,
-          "green": 0.3764705882352942,
-          "red": 0.3215686274509804
+          "blue": 0.2,
+          "green": 0.08627450980392154,
+          "red": 0.0392156862745098
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

@@ -26,12 +26,12 @@
   "foreignLayerStyles": [
     {
       "_class": "MSImmutableForeignLayerStyle",
-      "do_objectID": "6C185B71-4C24-41DF-B7D8-2F2CAB340AB9",
+      "do_objectID": "78854CAA-5C18-4DBA-AE02-A93F4E8CDBF1",
       "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
       "localSharedStyle": {
         "_class": "sharedStyle",
-        "do_objectID": "D5963226-3E42-43DD-9E57-70B878E174BE",
-        "name": "00通用场景/00文本颜色/01常规色/浅色文本(T_COLOR_TEXT_DEFAULT_LIGHT)",
+        "do_objectID": "3F618762-7F54-413A-9995-F238A807C1AC",
+        "name": "00通用场景/00文本颜色/01常规色/深色文本(T_COLOR_TEXT_DEFAULT_DARK)",
         "value": {
           "_class": "style",
           "blur": {
@@ -66,7 +66,7 @@
             "blendMode": 0,
             "opacity": 1
           },
-          "do_objectID": "8E709E29-3330-4658-ABC9-46D94397ECAB",
+          "do_objectID": "588D6E5B-9D80-4B6B-A025-CB71DFD5E628",
           "endMarkerType": 0,
           "fills": [
             {
@@ -74,9 +74,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.4588235294117647,
-                "green": 0.3764705882352942,
-                "red": 0.3215686274509804
+                "blue": 0.2,
+                "green": 0.08627450980392154,
+                "red": 0.0392156862745098
               },
               "contextSettings": {
                 "_class": "graphicsContextSettings",
@@ -136,7 +136,7 @@
           "windingRule": 1
         }
       },
-      "remoteStyleID": "A65B700C-E175-4D1A-987F-5B1332E7251D",
+      "remoteStyleID": "C9EB8CC6-AA83-4772-9B35-4F442C34E400",
       "sourceLibraryName": "1.1 U-Design Style 🌕",
       "symbolPrivate": false
     }
