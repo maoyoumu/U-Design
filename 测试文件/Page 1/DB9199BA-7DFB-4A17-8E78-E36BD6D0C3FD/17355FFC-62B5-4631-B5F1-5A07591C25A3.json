@@ -17,8 +17,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+<<<<<<< HEAD
     "height": 53,
     "width": 54.50000000000001,
+=======
+    "height": 106,
+    "width": 275,
+>>>>>>> parent of 57651bb... 分身
     "x": 82,
     "y": 559
   },
