@@ -1,5 +1,6 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "DB9199BA-7DFB-4A17-8E78-E36BD6D0C3FD",
+  "do_objectID": "4F1E735E-84D8-41DF-9CC1-6A325D9BBB89",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 896,
-    "width": 414,
-    "x": 190,
-    "y": 13
+    "height": 106,
+    "width": 275,
+    "x": 100,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -40,6 +42,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -51,33 +54,18 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "C0946066-2B08-4146-BAFA-313FF26B6E1D"
+      "id": "EA9ACAF3-FBAB-4792-AAB8-DD8706668830"
     },
     {
       "class": "rectangle",
-      "id": "13EDFE99-AE29-44DC-8DC0-372427DA2C16"
-    },
-    {
-      "class": "rectangle",
-      "id": "17355FFC-62B5-4631-B5F1-5A07591C25A3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "64AE06AA-B62B-4741-B4A1-3C831EC9CA9A"
-    },
-    {
-      "class": "rectangle",
-      "id": "D15E5DA5-D309-4FBD-B7DD-6FEB2285D360"
+      "id": "24F9C8C5-38B0-476F-90F6-24A740E34014"
     }
   ],
-  "name": "iPhone 11 Pro Max",
+  "name": "232321321321",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 896,
-    "name": "iPhone 11 Pro Max",
-    "offersLandscapeVariant": 1,
-    "width": 414
   },
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -118,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "26FF8144-EAEA-40A0-AAC8-DB34B630B72D",
+    "do_objectID": "40CEBF42-2E3F-410F-B2CB-42FCF896134E",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -130,6 +118,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "C66B3A0D-8BC1-4EE5-AC26-D5EC36B49B70",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

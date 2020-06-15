@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DB9199BA-7DFB-4A17-8E78-E36BD6D0C3FD",
+  "do_objectID": "92ACA82E-B8CB-49F3-84DC-383FE2E4FC43",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,68 +15,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 896,
-    "width": 414,
-    "x": 190,
-    "y": 13
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -368,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "C0946066-2B08-4146-BAFA-313FF26B6E1D"
-    },
-    {
-      "class": "rectangle",
-      "id": "13EDFE99-AE29-44DC-8DC0-372427DA2C16"
-    },
-    {
-      "class": "rectangle",
-      "id": "17355FFC-62B5-4631-B5F1-5A07591C25A3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "64AE06AA-B62B-4741-B4A1-3C831EC9CA9A"
-    },
-    {
-      "class": "rectangle",
-      "id": "D15E5DA5-D309-4FBD-B7DD-6FEB2285D360"
+      "class": "symbolMaster",
+      "id": "4F1E735E-84D8-41DF-9CC1-6A325D9BBB89"
     }
   ],
-  "name": "iPhone 11 Pro Max",
+  "name": "控件",
   "nameIsFixed": false,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 896,
-    "name": "iPhone 11 Pro Max",
-    "offersLandscapeVariant": 1,
-    "width": 414
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -118,7 +84,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "26FF8144-EAEA-40A0-AAC8-DB34B630B72D",
+    "do_objectID": "3640B0C9-8C7D-42AF-A2B9-5B6BA71A6754",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -132,7 +98,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -400,
     "guides": [
     ]
   }
