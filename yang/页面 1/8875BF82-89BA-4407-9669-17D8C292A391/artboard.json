@@ -1,8 +1,15 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F752ED8D-9DA5-4891-A86F-E3B173909194",
+  "do_objectID": "8875BF82-89BA-4407-9669-17D8C292A391",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,15 +21,16 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "constrainProportions": false,
+    "height": 896,
+    "width": 414,
+    "x": 266,
+    "y": 238
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -31,25 +39,39 @@
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "8875BF82-89BA-4407-9669-17D8C292A391"
+      "class": "rectangle",
+      "id": "F2B0768A-5AFF-488A-8B2A-164535488B42"
+    },
+    {
+      "class": "rectangle",
+      "id": "FA82AA83-4FE8-4FE1-8245-E361AD2CBD93"
     }
   ],
-  "name": "页面 1",
+  "name": "iPhone 11",
   "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 896,
+    "name": "iPhone 11",
+    "offersLandscapeVariant": 1,
+    "width": 414
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -84,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "527B1F5F-E1E3-49EE-9CAC-0CEA4300FDC4",
+    "do_objectID": "75BCE465-CCA0-420B-873D-2C1614AC3807",
     "endMarkerType": 0,
     "fills": [
     ],
