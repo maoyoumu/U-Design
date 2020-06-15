@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D15E5DA5-D309-4FBD-B7DD-6FEB2285D360",
+  "do_objectID": "26A116BB-57B3-4901-B608-F41D4E625F3B",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,8 +19,8 @@
     "constrainProportions": false,
     "height": 53,
     "width": 54.50000000000001,
-    "x": 82,
-    "y": 477
+    "x": 302.5,
+    "y": 559
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -31,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "矩形备份 3",
+  "name": "矩形备份 4",
   "nameIsFixed": false,
   "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
@@ -165,7 +165,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "967874CB-554D-4211-BA46-FE9DE692D74D",
+    "do_objectID": "13583EAD-A3B8-4705-B40D-B3E47CC39B91",
     "endMarkerType": 0,
     "fills": [
       {

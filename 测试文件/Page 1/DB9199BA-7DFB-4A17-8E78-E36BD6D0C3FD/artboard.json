@@ -63,7 +63,15 @@
     },
     {
       "class": "rectangle",
+      "id": "26A116BB-57B3-4901-B608-F41D4E625F3B"
+    },
+    {
+      "class": "rectangle",
       "id": "D15E5DA5-D309-4FBD-B7DD-6FEB2285D360"
+    },
+    {
+      "class": "rectangle",
+      "id": "B0B57C95-2239-417B-B1A0-64DF9E9031E3"
     }
   ],
   "name": "iPhone 11 Pro Max",
