@@ -46,7 +46,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "9CA55626-2189-4053-AEFF-21405C021554",
+  "sharedStyleID": "D5963226-3E42-43DD-9E57-70B878E174BE",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -133,7 +133,7 @@
         },
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/853732577995ec08625706620b0235b0184b90e8.pdf",
+          "_ref": "images/d08c1da1c88ba69c0bea5c9bc165b7413eec1d1d.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,

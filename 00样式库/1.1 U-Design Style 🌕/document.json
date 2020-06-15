@@ -30,7 +30,7 @@
       "libraryID": "93D3A9EE-5891-41A9-8062-2071D4CD0EA2",
       "localSharedStyle": {
         "_class": "sharedStyle",
-        "do_objectID": "F71FBF5A-137B-4642-9204-82EA73E2CB1E",
+        "do_objectID": "9200C8BB-104D-4890-AA24-C1C375B8E1BA",
         "name": "色卡/00常规色/01品牌色/品牌色6",
         "value": {
           "_class": "style",
@@ -151,10 +151,6 @@
     "version": 125
   },
   "pages": [
-    "* 更新记录",
-    " ",
-    " ",
-    " ",
     "Brand（原色）",
     "Colors（通用场景）",
     "Shadow（阴影）",

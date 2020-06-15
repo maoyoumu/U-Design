@@ -2,7 +2,7 @@
   "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DD692434-CC00-4D1C-B98D-8C8A963B0134",
+  "do_objectID": "5796014C-384A-4A4F-B67E-9495282799EF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -27,7 +27,7 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -464,
     "guides": [
     ]
   },
@@ -41,15 +41,15 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "6E44AA49-1D57-4297-BA37-9401682F268F"
+      "id": "D640FDB3-26C6-40A6-B8DF-87625935978B"
     },
     {
       "class": "artboard",
-      "id": "DE91E65F-1E16-4346-A16A-05C21243B266"
+      "id": "EA71C365-2641-48B4-BC61-674B5D760D75"
     },
     {
       "class": "artboard",
-      "id": "0CF55D16-7AE1-4AE6-99EA-6E82B459C51D"
+      "id": "1DA7CDD0-F44F-47A5-8B03-C06D30C29C8C"
     }
   ],
   "name": "Brand（原色）",
@@ -92,7 +92,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "520DECB2-49FC-4316-AA3C-F4F72C3B9373",
+    "do_objectID": "B9F08A67-91A4-472C-976F-47393C9CFE5F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,14 +104,9 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -336,
     "guides": [
     ]
   }

@@ -2,7 +2,7 @@
   "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8E830329-5A96-40FE-95CF-D145FCB07470",
+  "do_objectID": "736F778C-BE4F-4AF4-A00D-6CE19FA0BA12",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -27,7 +27,7 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -768,
+    "base": -444,
     "guides": [
     ]
   },
@@ -41,7 +41,7 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "FE2FD434-1B74-4822-AB24-EC2F74D57BE1"
+      "id": "527FAA4F-2412-4BE6-ACBF-F35AF35E1DFE"
     }
   ],
   "name": "Progress Bar（进度条）",
@@ -84,7 +84,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "031A23F9-DF34-444D-8562-6D15DA710E68",
+    "do_objectID": "91012528-EF38-4729-9894-C3D5A509B96C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -98,7 +98,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -502,
+    "base": -336,
     "guides": [
     ]
   }

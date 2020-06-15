@@ -2,7 +2,7 @@
   "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "694C47B3-0A2F-4E51-A3D8-21629AED0AE7",
+  "do_objectID": "70C62F49-843D-494F-9365-FB208F5C9C4E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -27,7 +27,7 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -569,
+    "base": -444,
     "guides": [
     ]
   },
@@ -41,19 +41,19 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "EF65DF64-08BC-4D49-BA97-D443216699B4"
+      "id": "CDFF2A55-39EC-416E-A7CC-6B3C35EB2C15"
     },
     {
       "class": "artboard",
-      "id": "D157E5E6-02F8-4E5E-8782-C147D4F34572"
+      "id": "29A040B5-70AA-4597-BAB3-3C7F0C647F27"
     },
     {
       "class": "artboard",
-      "id": "777F7542-62E7-4194-A198-C0442EB49D80"
+      "id": "1B4856EC-3500-4B5E-875A-9798919E9064"
     },
     {
       "class": "artboard",
-      "id": "AE474714-5DBD-432D-B6A9-062AA7C6DFD3"
+      "id": "75F14E07-1968-44CC-97AD-0C7FC5277134"
     }
   ],
   "name": "Colors（通用场景）",
@@ -96,7 +96,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F8F4C24B-F162-403E-90A9-239D11E94923",
+    "do_objectID": "DBD61DB4-5DF8-48C2-8600-39EAFA64D54F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -108,14 +108,9 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -473,
+    "base": -336,
     "guides": [
     ]
   }

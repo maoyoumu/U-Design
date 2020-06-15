@@ -2,7 +2,7 @@
   "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EB01B1AF-CB90-4912-A46B-402A6A96BCEB",
+  "do_objectID": "755F5B72-DBBC-438C-846C-DFCF938EA0D4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -27,7 +27,7 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -589,
+    "base": -444,
     "guides": [
     ]
   },
@@ -41,7 +41,7 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "335BEEED-1B79-4B34-B0BF-8CC16ABABBDB"
+      "id": "B588FB0D-DA0B-4254-AE4E-88978233AB8E"
     }
   ],
   "name": "Card（卡片）",
@@ -84,7 +84,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9C0A7119-58AB-4060-8FEF-F99FC3C4914F",
+    "do_objectID": "60DF0341-ED14-4A7C-A1D0-9A30984B6106",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -98,7 +98,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -473,
+    "base": -336,
     "guides": [
     ]
   }

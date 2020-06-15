@@ -2,7 +2,7 @@
   "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4DC4ED37-8B95-4C6D-BD1B-EB273E46B014",
+  "do_objectID": "2645130B-17C3-4D04-A96B-633F82091DF1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -27,7 +27,7 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -768,
+    "base": -444,
     "guides": [
     ]
   },
@@ -41,7 +41,7 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "BDE4BB66-D377-44C7-A614-77C89A54DF42"
+      "id": "7907A52E-6ADE-4128-BEA7-B44B22ABF3D0"
     }
   ],
   "name": "Steps（步骤条）",
@@ -84,7 +84,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "84DEB0B7-F867-46F1-A455-3CC9A6BFEE26",
+    "do_objectID": "D24FCA7F-44D2-4960-9159-A4459730DEBF",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -98,7 +98,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -502,
+    "base": -336,
     "guides": [
     ]
   }

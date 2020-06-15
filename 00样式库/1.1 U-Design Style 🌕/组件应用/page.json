@@ -2,7 +2,7 @@
   "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A96E7343-3FB1-44D0-A8D5-F7FFDA879686",
+  "do_objectID": "C46556EC-D801-461F-9BB8-147F9ABB4ED4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -27,7 +27,7 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -589,
+    "base": -444,
     "guides": [
     ]
   },
@@ -80,7 +80,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EF85E76F-2BBF-4725-AC69-AD5DC1DAC7B1",
+    "do_objectID": "2B0706DE-B474-42D8-9E27-23E4FFE94A53",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -94,7 +94,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -473,
+    "base": -336,
     "guides": [
     ]
   }

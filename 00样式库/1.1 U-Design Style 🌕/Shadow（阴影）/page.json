@@ -2,7 +2,7 @@
   "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CAD6190B-D339-4C4D-A325-F8918AC6B2AC",
+  "do_objectID": "4F0F2DB5-8E68-4417-8099-8F8169FAA38D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -27,7 +27,7 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -569,
+    "base": -444,
     "guides": [
     ]
   },
@@ -41,11 +41,11 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "A81EC791-E43A-4B61-9EAB-E460D7037DB6"
+      "id": "6374934A-56C6-4EF4-84DB-CD195CFCF823"
     },
     {
       "class": "artboard",
-      "id": "B9B5EA88-3BD3-4640-9B49-E7038668567B"
+      "id": "AE2E5BF3-5DAB-4DF3-A0FB-2CEAD85A4F30"
     }
   ],
   "name": "Shadow（阴影）",
@@ -88,7 +88,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B5E08463-F4EB-40C6-9B80-89053B33AF2D",
+    "do_objectID": "F70F2DDC-0EAD-4265-95B1-C68402D579E8",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -100,14 +100,9 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -473,
+    "base": -336,
     "guides": [
     ]
   }
