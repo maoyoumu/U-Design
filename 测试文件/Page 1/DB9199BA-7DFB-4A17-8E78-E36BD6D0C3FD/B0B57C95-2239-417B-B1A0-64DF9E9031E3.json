@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D15E5DA5-D309-4FBD-B7DD-6FEB2285D360",
+  "do_objectID": "B0B57C95-2239-417B-B1A0-64DF9E9031E3",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,7 +19,7 @@
     "constrainProportions": false,
     "height": 53,
     "width": 54.50000000000001,
-    "x": 82,
+    "x": 302.5,
     "y": 477
   },
   "hasClippingMask": false,
@@ -31,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "矩形备份 3",
+  "name": "矩形备份 5",
   "nameIsFixed": false,
   "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
@@ -165,7 +165,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "967874CB-554D-4211-BA46-FE9DE692D74D",
+    "do_objectID": "693B19AC-A2A8-4713-BA12-DF4F05E60DB9",
     "endMarkerType": 0,
     "fills": [
       {
@@ -173,9 +173,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1294117647058823,
-          "green": 0.1294117647058823,
-          "red": 0.7019607843137254
+          "blue": 0.2829699590774531,
+          "green": 0.7062103713768116,
+          "red": 0.1713448296253991
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
