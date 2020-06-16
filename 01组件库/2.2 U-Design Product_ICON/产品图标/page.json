@@ -317,7 +317,19 @@
     },
     {
       "class": "symbolMaster",
-      "id": "22C66EDF-018D-4EDE-BD85-F89FBBA2A282"
+      "id": "31F0DE51-4DDC-400B-A459-E9F0A8F1A695"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9A70A9AF-9D7E-41E4-98C5-E5FA69B03C77"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A6993398-C54C-4422-A424-CDC80CA83597"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EEF67915-6FDA-49E6-9A8D-2B33BB5B6CA0"
     }
   ],
   "name": "产品图标",

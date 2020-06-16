@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8CF51201-B996-40BE-9BC3-B9AB5F0B4316",
+  "do_objectID": "3E9BC090-34F3-4489-BC0F-650DA04D96FB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20.00999999999997,
-    "width": 16.37181818181818,
-    "x": 3.814090909090908,
-    "y": 1.995000000000021
+    "height": 19.83378745906597,
+    "width": 16.41047386363638,
+    "x": 3.745874999999847,
+    "y": 2.039230809430078
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,15 +33,27 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "5A75C93B-8DA6-4DE9-9750-8C70660AA5D1"
+      "class": "shapePath",
+      "id": "9CC55620-6F30-4C72-9D64-15F6FD4B7567"
     },
     {
-      "class": "shapeGroup",
-      "id": "0F243EF5-8AFD-415F-8189-1744567075F9"
+      "class": "shapePath",
+      "id": "31748AEE-5A3B-435B-A476-7F92C2240F8E"
+    },
+    {
+      "class": "shapePath",
+      "id": "B5B385A5-FD9D-4F20-B9B7-2EB363EAE2C6"
+    },
+    {
+      "class": "shapePath",
+      "id": "A85D9D48-C809-4D5D-9C33-7D6A120925EB"
+    },
+    {
+      "class": "shapePath",
+      "id": "DAAA8D06-581A-4B2F-A556-6C5448D21313"
     }
   ],
-  "name": "icon属性",
+  "name": "形状结合",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,7 +94,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "1436BD06-4051-467A-9448-35E91DEAB46F",
+    "do_objectID": "C193E5D3-FD9D-4C11-8A8A-D1CD42442122",
     "endMarkerType": 0,
     "fills": [
       {

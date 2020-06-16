@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 67,
+  "changeIdentifier": 144,
   "clippingMaskMode": 0,
-  "do_objectID": "22C66EDF-018D-4EDE-BD85-F89FBBA2A282",
+  "do_objectID": "A6993398-C54C-4422-A424-CDC80CA83597",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 432,
-    "y": 288
+    "x": 96,
+    "y": 340
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -54,16 +54,16 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "8CF51201-B996-40BE-9BC3-B9AB5F0B4316"
+      "id": "9314D118-C894-4AE9-87E8-CB2594103B0E"
     }
   ],
-  "name": "icon__vpc（vpn网关）",
+  "name": "icon__iotedge",
   "nameIsFixed": false,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "8CF51201-B996-40BE-9BC3-B9AB5F0B4316_layerStyle"
+      "overrideName": "9314D118-C894-4AE9-87E8-CB2594103B0E_layerStyle"
     }
   ],
   "presetDictionary": {
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "3BF551B7-3B63-4CC3-85A5-DDBAEE19E686",
+    "do_objectID": "0F8AD155-2B56-4174-88E5-2B71A45CD177",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -119,7 +119,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "405B6793-D1AC-4885-84B1-198EE94B0717",
+  "symbolID": "BD3D5B04-694F-4C91-95B3-0BB14DE16596",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
