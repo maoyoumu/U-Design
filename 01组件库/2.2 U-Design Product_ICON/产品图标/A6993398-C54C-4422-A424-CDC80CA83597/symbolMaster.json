@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 144,
+  "changeIdentifier": 147,
   "clippingMaskMode": 0,
   "do_objectID": "A6993398-C54C-4422-A424-CDC80CA83597",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -57,7 +66,7 @@
       "id": "9314D118-C894-4AE9-87E8-CB2594103B0E"
     }
   ],
-  "name": "icon__iotedge",
+  "name": "iotedge",
   "nameIsFixed": false,
   "overrideProperties": [
     {

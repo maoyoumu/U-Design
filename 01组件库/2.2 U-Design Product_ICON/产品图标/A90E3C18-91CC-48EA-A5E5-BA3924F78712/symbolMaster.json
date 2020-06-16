@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 37,
+  "changeIdentifier": 40,
   "clippingMaskMode": 0,
   "do_objectID": "A90E3C18-91CC-48EA-A5E5-BA3924F78712",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -57,7 +66,7 @@
       "id": "C7A71B46-8B34-4C28-A7A2-621E291132BC"
     }
   ],
-  "name": "icon__uhadoop",
+  "name": "uhadoop",
   "nameIsFixed": false,
   "overrideProperties": [
     {

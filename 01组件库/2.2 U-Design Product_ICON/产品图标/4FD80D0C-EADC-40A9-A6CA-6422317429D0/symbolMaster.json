@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 29,
+  "changeIdentifier": 32,
   "clippingMaskMode": 0,
   "do_objectID": "4FD80D0C-EADC-40A9-A6CA-6422317429D0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -57,7 +66,7 @@
       "id": "197BAE16-37D6-4182-AE3E-7693C8590075"
     }
   ],
-  "name": "icon__hela",
+  "name": "hela",
   "nameIsFixed": false,
   "overrideProperties": [
     {

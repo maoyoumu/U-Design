@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 53,
+  "changeIdentifier": 56,
   "clippingMaskMode": 0,
   "do_objectID": "FB613E96-76BE-4C5F-AD78-B4B267ED5CD1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -57,7 +66,7 @@
       "id": "B430D5EB-5855-42EB-A73B-E61CD561199A"
     }
   ],
-  "name": "icon__umon",
+  "name": "umon",
   "nameIsFixed": false,
   "overrideProperties": [
     {

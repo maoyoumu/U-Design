@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 79,
+  "changeIdentifier": 82,
   "clippingMaskMode": 0,
   "do_objectID": "9C1083F8-BAC3-4B05-BC80-34E64302BF04",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -57,7 +66,7 @@
       "id": "D8B97101-EDB5-4390-8252-D5424AA1988F"
     }
   ],
-  "name": "icon__accessgw",
+  "name": "accessgw",
   "nameIsFixed": false,
   "overrideProperties": [
     {

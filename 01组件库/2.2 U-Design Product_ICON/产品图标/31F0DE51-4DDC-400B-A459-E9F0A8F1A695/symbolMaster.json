@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 136,
+  "changeIdentifier": 139,
   "clippingMaskMode": 0,
   "do_objectID": "31F0DE51-4DDC-400B-A459-E9F0A8F1A695",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -57,7 +66,7 @@
       "id": "1B0A0D4A-05F4-4972-B522-AD46AE33D396"
     }
   ],
-  "name": "icon__ipsecvpn",
+  "name": "ipsecvpn",
   "nameIsFixed": true,
   "overrideProperties": [
     {

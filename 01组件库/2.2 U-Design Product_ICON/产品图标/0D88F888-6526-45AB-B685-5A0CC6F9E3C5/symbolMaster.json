@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 36,
+  "changeIdentifier": 39,
   "clippingMaskMode": 0,
   "do_objectID": "0D88F888-6526-45AB-B685-5A0CC6F9E3C5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -57,7 +66,7 @@
       "id": "8F1D5FF6-3456-4151-A296-B86B9CA97B7E"
     }
   ],
-  "name": "icon__umarket",
+  "name": "umarket",
   "nameIsFixed": false,
   "overrideProperties": [
     {

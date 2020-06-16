@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 163,
+  "changeIdentifier": 166,
   "clippingMaskMode": 0,
   "do_objectID": "EEF67915-6FDA-49E6-9A8D-2B33BB5B6CA0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -57,7 +66,7 @@
       "id": "3E9BC090-34F3-4489-BC0F-650DA04D96FB"
     }
   ],
-  "name": "icon__cube",
+  "name": "cube",
   "nameIsFixed": false,
   "overrideProperties": [
     {

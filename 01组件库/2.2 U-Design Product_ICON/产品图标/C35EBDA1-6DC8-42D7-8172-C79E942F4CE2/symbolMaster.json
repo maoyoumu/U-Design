@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 42,
+  "changeIdentifier": 45,
   "clippingMaskMode": 0,
   "do_objectID": "C35EBDA1-6DC8-42D7-8172-C79E942F4CE2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -57,7 +66,7 @@
       "id": "14CE7FBB-BFEB-49CC-A348-CBB85227D0F0"
     }
   ],
-  "name": "icon__uhub",
+  "name": "uhub",
   "nameIsFixed": false,
   "overrideProperties": [
     {

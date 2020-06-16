@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 37,
+  "changeIdentifier": 40,
   "clippingMaskMode": 0,
   "do_objectID": "A9E65C01-037F-4A4A-B2DF-F65C8F40C38E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -57,7 +66,7 @@
       "id": "9FDE9588-7C6B-4A2C-B7B9-DF781A91CE6F"
     }
   ],
-  "name": "icon__ulog",
+  "name": "ulog",
   "nameIsFixed": false,
   "overrideProperties": [
     {
