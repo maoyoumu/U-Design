@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 42,
+  "changeIdentifier": 45,
   "clippingMaskMode": 0,
   "do_objectID": "3836522A-2CD2-4F32-A3F0-063AC33A87A4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -57,7 +66,7 @@
       "id": "F1D1D876-68EB-4142-A5E1-FC2B90785B8C"
     }
   ],
-  "name": "icon__udocker",
+  "name": "udocker",
   "nameIsFixed": false,
   "overrideProperties": [
     {

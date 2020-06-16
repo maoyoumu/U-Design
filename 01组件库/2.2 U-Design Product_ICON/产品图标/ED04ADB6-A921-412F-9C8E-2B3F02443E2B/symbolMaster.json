@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 39,
+  "changeIdentifier": 42,
   "clippingMaskMode": 0,
   "do_objectID": "ED04ADB6-A921-412F-9C8E-2B3F02443E2B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -57,7 +66,7 @@
       "id": "02CA5373-6A27-43CD-8BC8-3462E65DC99D"
     }
   ],
-  "name": "icon__ugroup",
+  "name": "ugroup",
   "nameIsFixed": false,
   "overrideProperties": [
     {

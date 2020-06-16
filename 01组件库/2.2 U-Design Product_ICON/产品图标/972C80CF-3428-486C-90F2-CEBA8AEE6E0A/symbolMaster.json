@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 71,
+  "changeIdentifier": 74,
   "clippingMaskMode": 0,
   "do_objectID": "972C80CF-3428-486C-90F2-CEBA8AEE6E0A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -57,7 +66,7 @@
       "id": "C875BDF4-6521-498C-B0A4-A5A8AFDFEC63"
     }
   ],
-  "name": "icon__umem",
+  "name": "umem",
   "nameIsFixed": false,
   "overrideProperties": [
     {

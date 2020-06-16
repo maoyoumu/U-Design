@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 67,
+  "changeIdentifier": 70,
   "clippingMaskMode": 0,
   "do_objectID": "F007790B-1F29-4A16-A9E6-B972E0370577",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -57,7 +66,7 @@
       "id": "A9A92625-9FCC-4D42-8096-BD0ACA0FC715"
     }
   ],
-  "name": "icon__uiot",
+  "name": "uiot",
   "nameIsFixed": false,
   "overrideProperties": [
     {

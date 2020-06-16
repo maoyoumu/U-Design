@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 60,
+  "changeIdentifier": 63,
   "clippingMaskMode": 0,
   "do_objectID": "49978D55-9B8C-4347-9BFC-94814A3E3A98",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -57,7 +66,7 @@
       "id": "4DEBBB62-E9B7-4B86-B217-7D21E558045E"
     }
   ],
-  "name": "icon__roma",
+  "name": "roma",
   "nameIsFixed": false,
   "overrideProperties": [
     {

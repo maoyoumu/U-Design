@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 33,
+  "changeIdentifier": 36,
   "clippingMaskMode": 0,
   "do_objectID": "1BF56F0F-1217-4993-9671-C27417112F3B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -57,7 +66,7 @@
       "id": "5EFE3139-AF19-4B36-9074-23F8B8CFB182"
     }
   ],
-  "name": "icon__ulive",
+  "name": "ulive",
   "nameIsFixed": false,
   "overrideProperties": [
     {

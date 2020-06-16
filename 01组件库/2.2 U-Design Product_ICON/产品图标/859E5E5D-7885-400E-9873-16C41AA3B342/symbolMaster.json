@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 35,
+  "changeIdentifier": 38,
   "clippingMaskMode": 0,
   "do_objectID": "859E5E5D-7885-400E-9873-16C41AA3B342",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -57,7 +66,7 @@
       "id": "3BCBC7DC-8687-48C5-A091-CD17C3CCF3B0"
     }
   ],
-  "name": "icon__urmp",
+  "name": "urmp",
   "nameIsFixed": false,
   "overrideProperties": [
     {

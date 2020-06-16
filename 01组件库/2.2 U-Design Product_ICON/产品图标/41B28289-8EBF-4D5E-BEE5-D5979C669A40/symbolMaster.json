@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 38,
+  "changeIdentifier": 41,
   "clippingMaskMode": 0,
   "do_objectID": "41B28289-8EBF-4D5E-BEE5-D5979C669A40",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -57,7 +66,7 @@
       "id": "483F06DA-ADBD-49C8-9F1C-6C9233BD0616"
     }
   ],
-  "name": "icon__ukafka",
+  "name": "ukafka",
   "nameIsFixed": false,
   "overrideProperties": [
     {
