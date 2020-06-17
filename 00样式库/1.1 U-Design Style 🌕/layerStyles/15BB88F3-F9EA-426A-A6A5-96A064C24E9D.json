@@ -1,88 +1,8 @@
 {
-  "_class": "rectangle",
-  "booleanOperation": -1,
-  "clippingMaskMode": 0,
-  "do_objectID": "F7F4EBF3-4FF3-4DDC-9582-513C433C6F26",
-  "edited": false,
-  "exportOptions": {
-    "_class": "exportOptions",
-    "exportFormats": [
-    ],
-    "includedLayerIds": [
-    ],
-    "layerOptions": 0,
-    "shouldTrim": false
-  },
-  "fixedRadius": 8,
-  "frame": {
-    "_class": "rect",
-    "constrainProportions": true,
-    "height": 120,
-    "width": 120,
-    "x": 0,
-    "y": 0
-  },
-  "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
-  "isClosed": true,
-  "isFixedToViewport": false,
-  "isFlippedHorizontal": false,
-  "isFlippedVertical": false,
-  "isLocked": false,
-  "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Color",
-  "nameIsFixed": true,
-  "needsConvertionToNewRoundCorners": false,
-  "pointRadiusBehaviour": 0,
-  "points": [
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 8,
-      "curveFrom": "{0, 0}",
-      "curveMode": 1,
-      "curveTo": "{0, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 8,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 8,
-      "curveFrom": "{1, 1}",
-      "curveMode": 1,
-      "curveTo": "{1, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 8,
-      "curveFrom": "{0, 1}",
-      "curveMode": 1,
-      "curveTo": "{0, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 1}"
-    }
-  ],
-  "resizingConstraint": 63,
-  "resizingType": 0,
-  "rotation": 0,
-  "sharedStyleID": "15BB88F3-F9EA-426A-A6A5-96A064C24E9D",
-  "shouldBreakMaskChain": false,
-  "style": {
+  "_class": "sharedStyle",
+  "do_objectID": "15BB88F3-F9EA-426A-A6A5-96A064C24E9D",
+  "name": "组件应用/导航/00顶部横向导航/顶栏Logo（T_FRAME_LOGO_COLOR_BG_DEFAULT）",
+  "value": {
     "_class": "style",
     "blur": {
       "_class": "blur",
@@ -166,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E912C951-BB2A-4030-85D5-D04A8D6E08BA",
+    "do_objectID": "656D7DDA-9CDD-42F3-B18A-E0AE97F2DC99",
     "endMarkerType": 0,
     "fills": [
       {
