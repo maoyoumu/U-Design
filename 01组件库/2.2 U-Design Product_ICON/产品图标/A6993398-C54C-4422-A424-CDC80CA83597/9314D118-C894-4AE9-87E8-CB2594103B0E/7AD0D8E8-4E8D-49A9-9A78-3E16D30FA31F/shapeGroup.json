@@ -18,7 +18,7 @@
     "height": 5.912045454545455,
     "width": 16.37181818181818,
     "x": 0,
-    "y": 14.09802583201271
+    "y": 14.09804892349985
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",

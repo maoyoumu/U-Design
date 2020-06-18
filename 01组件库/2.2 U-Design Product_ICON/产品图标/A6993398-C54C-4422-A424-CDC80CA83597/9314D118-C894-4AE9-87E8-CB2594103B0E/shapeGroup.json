@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20.01007128655819,
+    "height": 20.01009437804527,
     "width": 16.37181818181818,
-    "x": 3.814090909090908,
-    "y": 1.994928713441698
+    "x": 3.814090909090904,
+    "y": 1.99490562195439
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -41,7 +41,7 @@
       "id": "7AD0D8E8-4E8D-49A9-9A78-3E16D30FA31F"
     }
   ],
-  "name": "形状结合",
+  "name": "icon属性",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
