@@ -1,8 +1,8 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": -1,
+  "booleanOperation": 1,
   "clippingMaskMode": 0,
-  "do_objectID": "A86FFEF8-CD42-4327-8C00-CB141D7BA924",
+  "do_objectID": "B48F35AD-3EB2-4D32-A077-8539C5B1DC6A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19.15268900151533,
-    "width": 17.52013129119125,
-    "x": 0.002896953224006857,
-    "y": 0.01745946961720569
+    "height": 6.666666666666667,
+    "width": 5.714285714285714,
+    "x": 7.619047619047619,
+    "y": 3.333333333333271
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,11 +34,7 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "60620B54-254E-4102-8CE1-209B852AAFAC"
-    },
-    {
-      "class": "shapePath",
-      "id": "F72AA821-97AC-4B64-820C-47F6F838064A"
+      "id": "C05072C6-8EA0-4539-B769-47F50ADC2342"
     }
   ],
   "name": "形状",
@@ -46,7 +42,6 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "6EAF3D6B-DCEB-47B1-AD42-CD5317A33E89",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -74,7 +69,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -82,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "80423C4F-F380-4B8B-A35E-CA0034983AAF",
+    "do_objectID": "3AAD880D-96F4-4BB8-B94E-7EDC1ACF58AF",
     "endMarkerType": 0,
     "fills": [
       {
@@ -90,9 +85,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4588235294117647,
-          "green": 0.3764705882352942,
-          "red": 0.3215686274509804
+          "blue": 0,
+          "green": 0,
+          "red": 0.01568627450980392
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -131,11 +126,6 @@
           ],
           "to": "{0.5, 1}"
         },
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref": "images/d08c1da1c88ba69c0bea5c9bc165b7413eec1d1d.png",
-          "_ref_class": "MSImageData"
-        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -149,7 +139,7 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   },
-  "windingRule": 1
+  "windingRule": 0
 }

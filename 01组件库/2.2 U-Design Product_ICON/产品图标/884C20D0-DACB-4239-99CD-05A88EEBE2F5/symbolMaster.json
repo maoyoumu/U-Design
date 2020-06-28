@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 48,
+  "changeIdentifier": 2498,
   "clippingMaskMode": 0,
   "do_objectID": "884C20D0-DACB-4239-99CD-05A88EEBE2F5",
   "exportOptions": {
@@ -42,7 +42,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,11 +59,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "414CD209-D594-4A0E-A70F-653AE8DEB71E"
+      "id": "ABEE810E-98F7-481B-9B42-8DD009824CC5"
     }
   ],
   "name": "urtc",
@@ -72,7 +72,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "414CD209-D594-4A0E-A70F-653AE8DEB71E_layerStyle"
+      "overrideName": "ABEE810E-98F7-481B-9B42-8DD009824CC5_layerStyle"
     }
   ],
   "presetDictionary": {

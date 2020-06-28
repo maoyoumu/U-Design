@@ -1,8 +1,8 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "414CD209-D594-4A0E-A70F-653AE8DEB71E",
+  "do_objectID": "6E92C554-F346-4BD1-8A39-FD0E07076EBA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18.47076923076923,
-    "width": 20.01,
-    "x": 1.994999999999999,
-    "y": 2.764615384615384
+    "height": 2.904040308659598,
+    "width": 10.52382962325163,
+    "x": 4.261891948848359,
+    "y": 14.737979591158
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,47 +30,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
-      "id": "61B13485-6235-4E22-BA4F-CDBF27159812"
-    },
-    {
-      "class": "shapePath",
-      "id": "2D56A5F0-2F6E-4F13-8BA5-865B2C6989DE"
-    },
-    {
-      "class": "shapePath",
-      "id": "DED20168-BD22-41C8-9C9D-2792030DC8DC"
-    },
-    {
-      "class": "shapePath",
-      "id": "00830D57-BB8B-4625-BDB4-76E91CD03D3C"
-    },
-    {
-      "class": "shapePath",
-      "id": "7FC1182E-4FFD-4E49-9264-D9453105654A"
-    },
-    {
-      "class": "shapePath",
-      "id": "93F44072-1540-4CFD-94DD-0B9B0FECC6DF"
-    },
-    {
-      "class": "shapePath",
-      "id": "33F0EB53-91FB-4FDE-9315-572E3AA8DB6A"
-    },
-    {
-      "class": "shapePath",
-      "id": "0A665F4B-6E89-4E94-AA18-F8CCD1106AD9"
+      "id": "9CDFBDA5-1D9E-4FE9-9614-E163C59E3C68"
     }
   ],
-  "name": "icon属性",
+  "name": "路径",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "6EAF3D6B-DCEB-47B1-AD42-CD5317A33E89",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -98,7 +69,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -106,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C6B3D1DB-414E-49A3-A192-3E76CD1D6908",
+    "do_objectID": "FB6388FC-3C21-4D79-B6FF-A160A050EEF6",
     "endMarkerType": 0,
     "fills": [
       {
@@ -114,9 +85,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4588235294117647,
-          "green": 0.3764705882352942,
-          "red": 0.3215686274509804
+          "blue": 0,
+          "green": 0,
+          "red": 0.01568627450980392
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -155,11 +126,6 @@
           ],
           "to": "{0.5, 1}"
         },
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref": "images/d08c1da1c88ba69c0bea5c9bc165b7413eec1d1d.png",
-          "_ref_class": "MSImageData"
-        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -173,7 +139,7 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   },
-  "windingRule": 1
+  "windingRule": 0
 }

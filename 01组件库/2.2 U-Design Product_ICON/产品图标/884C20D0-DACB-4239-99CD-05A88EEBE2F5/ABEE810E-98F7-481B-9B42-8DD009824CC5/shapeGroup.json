@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A86FFEF8-CD42-4327-8C00-CB141D7BA924",
+  "do_objectID": "ABEE810E-98F7-481B-9B42-8DD009824CC5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19.15268900151533,
-    "width": 17.52013129119125,
-    "x": 0.002896953224006857,
-    "y": 0.01745946961720569
+    "height": 17.64201989981758,
+    "width": 20,
+    "x": 2,
+    "y": 3.428571428571523
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,16 +33,16 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "60620B54-254E-4102-8CE1-209B852AAFAC"
+      "class": "shapeGroup",
+      "id": "F9111C0E-4B3B-450E-A653-D591FF43ECA7"
     },
     {
-      "class": "shapePath",
-      "id": "F72AA821-97AC-4B64-820C-47F6F838064A"
+      "class": "shapeGroup",
+      "id": "6E92C554-F346-4BD1-8A39-FD0E07076EBA"
     }
   ],
-  "name": "形状",
-  "nameIsFixed": false,
+  "name": "icon属性",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -82,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "80423C4F-F380-4B8B-A35E-CA0034983AAF",
+    "do_objectID": "B2D4B7DA-0A89-4AF2-A8BA-5A55A3BE8E1E",
     "endMarkerType": 0,
     "fills": [
       {
