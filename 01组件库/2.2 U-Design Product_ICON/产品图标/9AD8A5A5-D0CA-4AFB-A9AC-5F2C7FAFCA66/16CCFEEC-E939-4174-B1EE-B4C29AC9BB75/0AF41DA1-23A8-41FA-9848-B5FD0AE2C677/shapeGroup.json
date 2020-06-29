@@ -1,8 +1,61 @@
 {
-  "_class": "sharedStyle",
-  "do_objectID": "691AFE74-E079-49FC-B542-15AE12FEC2F6",
-  "name": "00通用场景/00文本颜色/03功能色/01注释文本(T_COLOR_TEXT_REMARK_LIGHT)",
-  "value": {
+  "_class": "shapeGroup",
+  "booleanOperation": 1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0AF41DA1-23A8-41FA-9848-B5FD0AE2C677",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 5.454545454545443,
+    "width": 10.11363636363635,
+    "x": 4.943181818181827,
+    "y": 3.939393939393881
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B8D68DAC-AD8D-42C0-97F6-8500F20BE354"
+    },
+    {
+      "class": "rectangle",
+      "id": "609CEA8E-1E5C-4B5A-B6CF-248D30E17EEE"
+    },
+    {
+      "class": "rectangle",
+      "id": "7F36FACA-8CDF-419E-B866-8F31212E43BE"
+    },
+    {
+      "class": "rectangle",
+      "id": "35B1AB35-3F81-46A6-ACE6-702987E6EE6A"
+    }
+  ],
+  "name": "形状结合",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
@@ -28,7 +81,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -36,17 +89,17 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "39F98BB4-4BD9-458A-A4AB-193E702041AF",
+    "do_objectID": "DE02D538-A05F-412D-9F95-342DD961A860",
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.2,
-          "blue": 0.2,
-          "green": 0.08627450980392157,
-          "red": 0.0392156862745098
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0.01568627450980392
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -85,11 +138,6 @@
           ],
           "to": "{0.5, 1}"
         },
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref": "images/d08c1da1c88ba69c0bea5c9bc165b7413eec1d1d.png",
-          "_ref_class": "MSImageData"
-        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -103,6 +151,7 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 1
-  }
+    "windingRule": 0
+  },
+  "windingRule": 0
 }
