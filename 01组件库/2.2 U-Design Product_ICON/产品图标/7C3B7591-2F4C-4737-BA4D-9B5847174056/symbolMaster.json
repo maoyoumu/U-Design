@@ -1,5 +1,6 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,11 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 16079,
   "clippingMaskMode": 0,
-  "do_objectID": "29A040B5-70AA-4597-BAB3-3C7F0C647F27",
+  "do_objectID": "7C3B7591-2F4C-4737-BA4D-9B5847174056",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -22,16 +33,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4942,
-    "width": 1440,
-    "x": -1491,
-    "y": -2764
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 471
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -40,6 +51,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -50,52 +62,39 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "2DEA8E0A-E42D-4C13-AE19-AC468CF96B83"
+      "class": "shapeGroup",
+      "id": "6C35838F-CC1B-45D4-9031-BA8B165C9A1A"
     },
     {
       "class": "group",
-      "id": "F8FAB9B3-14A1-43E8-AF10-430BAAC49CE3"
+      "id": "5E8368C4-BD41-4E03-AE8B-61E4C4F86F2B"
     },
     {
       "class": "group",
-      "id": "98EC20C0-F641-4531-BBE8-4F3B88B52A34"
+      "id": "39C1E722-E9DE-4440-9CCB-7E811B5E0C97"
     },
     {
-      "class": "group",
-      "id": "D70CBD3C-8549-49A3-A45C-DADD06FFC0BC"
-    },
-    {
-      "class": "group",
-      "id": "A6C35AB8-C2B5-4A6C-903A-97E386A1BE11"
-    },
-    {
-      "class": "group",
-      "id": "CDFF0962-67E3-4756-820F-4501849E1AC3"
-    },
-    {
-      "class": "group",
-      "id": "FB8C89A3-C12A-48A7-95D5-1D10AD47E5C4"
-    },
-    {
-      "class": "group",
-      "id": "ABEEA42D-74F8-468F-B86E-931857F07F5B"
-    },
-    {
-      "class": "group",
-      "id": "C546BDD7-B64C-4EBB-BB5B-D92612D45C27"
+      "class": "shapeGroup",
+      "id": "52D9F952-7C9F-4230-840A-F5AEAE7666AF"
     }
   ],
-  "name": "应用场景-01背景",
+  "name": "云游戏",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6C35838F-CC1B-45D4-9031-BA8B165C9A1A_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "52D9F952-7C9F-4230-840A-F5AEAE7666AF_layerStyle"
+    }
+  ],
   "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "桌面端 HD",
-    "offersLandscapeVariant": 0,
-    "width": 1440
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -126,7 +125,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -134,7 +133,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B1EBA9EE-BC03-4EAA-BF9D-A49937B4DE24",
+    "do_objectID": "CD9A60DE-91DB-43CD-9C02-66B82863FCE7",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -146,6 +145,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "60D423B7-D0B8-4126-BC7C-BC6B35384754",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

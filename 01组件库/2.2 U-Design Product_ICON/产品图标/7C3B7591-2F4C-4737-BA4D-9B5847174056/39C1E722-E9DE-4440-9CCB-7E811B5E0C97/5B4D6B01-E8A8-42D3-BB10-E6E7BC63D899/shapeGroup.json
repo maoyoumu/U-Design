@@ -1,8 +1,8 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": 1,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0AF41DA1-23A8-41FA-9848-B5FD0AE2C677",
+  "do_objectID": "5B4D6B01-E8A8-42D3-BB10-E6E7BC63D899",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 5.454545454545444,
-    "width": 10.11363636363635,
-    "x": 4.943181818181825,
-    "y": 3.939393939393907
+    "height": 8.000000000000002,
+    "width": 8,
+    "x": -1.110223024625157e-16,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,26 +30,38 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "B8D68DAC-AD8D-42C0-97F6-8500F20BE354"
+      "class": "shapePath",
+      "id": "7BEFB151-0DA8-4663-A836-3CD4FB2D6020"
     },
     {
-      "class": "rectangle",
-      "id": "609CEA8E-1E5C-4B5A-B6CF-248D30E17EEE"
+      "class": "shapePath",
+      "id": "B60CFBD4-DC15-4F8F-B418-BCAE03D74E48"
     },
     {
-      "class": "rectangle",
-      "id": "7F36FACA-8CDF-419E-B866-8F31212E43BE"
+      "class": "shapePath",
+      "id": "D555CFB2-0322-4E0E-8C14-EB206E55BB00"
     },
     {
-      "class": "rectangle",
-      "id": "35B1AB35-3F81-46A6-ACE6-702987E6EE6A"
+      "class": "shapePath",
+      "id": "D29A186C-4799-48C6-AF95-B1DC9D316E44"
+    },
+    {
+      "class": "shapePath",
+      "id": "5EA9306D-861A-4041-80AC-9A94A54E3259"
+    },
+    {
+      "class": "shapePath",
+      "id": "0DD5C7F0-5D85-416F-953F-4E9F14DC85D9"
+    },
+    {
+      "class": "shapePath",
+      "id": "F379DE3E-1466-4D23-B38B-4613026A26EA"
     }
   ],
-  "name": "形状结合",
+  "name": "形状",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -89,7 +101,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DE02D538-A05F-412D-9F95-342DD961A860",
+    "do_objectID": "44155414-B450-4AD2-B655-3C9DD57A3AC7",
     "endMarkerType": 0,
     "fills": [
       {
@@ -97,9 +109,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0.01568627450980392
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

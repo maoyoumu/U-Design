@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C546BDD7-B64C-4EBB-BB5B-D92612D45C27",
+  "do_objectID": "65291722-1B89-4F2D-84FC-03ED84207351",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 473,
+    "height": 162,
     "width": 570,
-    "x": 120,
-    "y": 3852
+    "x": 0,
+    "y": 311
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,20 +34,28 @@
   "layers": [
     {
       "class": "group",
-      "id": "B6F2E6B0-0892-480F-B352-8E25279B8300"
+      "id": "7692F644-83B3-4B06-A413-36C385E45B4B"
     },
     {
       "class": "group",
-      "id": "65291722-1B89-4F2D-84FC-03ED84207351"
+      "id": "D334D69D-77D1-4C39-922C-3F5B27114FD0"
     },
     {
       "class": "text",
-      "id": "2A62AA02-A38D-45F1-99F4-103D6A53EEC5"
+      "id": "069707BD-585D-4198-9242-D7EC884A9E92"
+    },
+    {
+      "class": "rectangle",
+      "id": "3FB59CF7-EB91-496A-ACEB-A013D2F4FD7A"
+    },
+    {
+      "class": "rectangle",
+      "id": "B67867E5-7B50-413A-AFB7-E8843A0BBDD3"
     }
   ],
-  "name": "图例备份 7",
+  "name": "图例组备份 8",
   "nameIsFixed": true,
-  "resizingConstraint": 9,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -85,7 +93,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9FA88614-DF2D-4CAE-B0E0-EBC1B0D50660",
+    "do_objectID": "A1423A8C-AD88-47FD-9532-DE333470467D",
     "endMarkerType": 0,
     "fills": [
     ],

@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C546BDD7-B64C-4EBB-BB5B-D92612D45C27",
+  "do_objectID": "D334D69D-77D1-4C39-922C-3F5B27114FD0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 473,
-    "width": 570,
-    "x": 120,
-    "y": 3852
+    "height": 53,
+    "width": 131,
+    "x": 136,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,24 +30,20 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "B6F2E6B0-0892-480F-B352-8E25279B8300"
-    },
-    {
-      "class": "group",
-      "id": "65291722-1B89-4F2D-84FC-03ED84207351"
+      "class": "text",
+      "id": "6D88B0FD-9326-4918-B944-6DBFE1052782"
     },
     {
       "class": "text",
-      "id": "2A62AA02-A38D-45F1-99F4-103D6A53EEC5"
+      "id": "5BE588FD-C154-42BC-8567-68C66B0F1001"
     }
   ],
-  "name": "图例备份 7",
+  "name": "标题",
   "nameIsFixed": true,
-  "resizingConstraint": 9,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -85,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9FA88614-DF2D-4CAE-B0E0-EBC1B0D50660",
+    "do_objectID": "46E32D92-CE2D-420F-8476-20BF20F22506",
     "endMarkerType": 0,
     "fills": [
     ],
