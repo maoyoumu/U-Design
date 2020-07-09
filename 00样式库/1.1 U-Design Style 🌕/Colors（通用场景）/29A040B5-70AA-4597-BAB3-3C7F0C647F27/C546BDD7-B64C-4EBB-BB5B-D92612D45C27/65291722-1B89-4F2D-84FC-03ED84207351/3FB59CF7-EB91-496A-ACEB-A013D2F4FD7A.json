@@ -1,8 +1,88 @@
 {
-  "_class": "sharedStyle",
-  "do_objectID": "691AFE74-E079-49FC-B542-15AE12FEC2F6",
-  "name": "00通用场景/00文本颜色/03功能色/01注释文本(T_COLOR_TEXT_REMARK_LIGHT)",
-  "value": {
+  "_class": "rectangle",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3FB59CF7-EB91-496A-ACEB-A013D2F4FD7A",
+  "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 8,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 90,
+    "width": 90,
+    "x": 30,
+    "y": 30
+  },
+  "hasClippingMask": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Color备份",
+  "nameIsFixed": true,
+  "needsConvertionToNewRoundCorners": false,
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 8,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 8,
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 8,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 8,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "02E7AA1E-FD18-4799-B8B7-7F39313FEBBB",
+  "shouldBreakMaskChain": false,
+  "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
@@ -36,17 +116,17 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "39F98BB4-4BD9-458A-A4AB-193E702041AF",
+    "do_objectID": "003B9ECE-640A-4B2F-9D71-7CB8C4FFEB3B",
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.2,
-          "blue": 0.2,
-          "green": 0.08627450980392157,
-          "red": 0.0392156862745098
+          "alpha": 1,
+          "blue": 0.6627450980392157,
+          "green": 0.9529411764705882,
+          "red": 1
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

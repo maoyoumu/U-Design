@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1375,
+  "changeIdentifier": 14851,
   "clippingMaskMode": 0,
-  "do_objectID": "135D9519-7E82-4891-9F45-CF41DCEB9AD1",
+  "do_objectID": "9AD8A5A5-D0CA-4AFB-A9AC-5F2C7FAFCA66",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -35,8 +35,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 96,
-    "y": 386
+    "x": 48,
+    "y": 432
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -63,16 +63,16 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "CF8D7DAB-FFBC-49DB-AF67-131540B02EAA"
+      "id": "16CCFEEC-E939-4174-B1EE-B4C29AC9BB75"
     }
   ],
-  "name": "gpu",
+  "name": "dashboard3",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "CF8D7DAB-FFBC-49DB-AF67-131540B02EAA_layerStyle"
+      "overrideName": "16CCFEEC-E939-4174-B1EE-B4C29AC9BB75_layerStyle"
     }
   ],
   "presetDictionary": {
@@ -116,7 +116,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "266692FB-47D2-49A3-B9A4-C203D671B5A6",
+    "do_objectID": "61F461C4-CB54-4995-9B6F-E4F3F412C933",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -128,7 +128,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D1713A61-0D01-4EA0-BFFA-4DAA832E4341",
+  "symbolID": "C1EDBF93-E1B7-48A3-B778-83B35902BD4E",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

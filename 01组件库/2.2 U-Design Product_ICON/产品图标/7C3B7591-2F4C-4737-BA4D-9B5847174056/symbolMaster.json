@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1375,
+  "changeIdentifier": 16079,
   "clippingMaskMode": 0,
-  "do_objectID": "135D9519-7E82-4891-9F45-CF41DCEB9AD1",
+  "do_objectID": "7C3B7591-2F4C-4737-BA4D-9B5847174056",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -35,14 +35,14 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 96,
-    "y": 386
+    "x": 0,
+    "y": 471
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -63,16 +63,33 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "CF8D7DAB-FFBC-49DB-AF67-131540B02EAA"
+      "id": "6C35838F-CC1B-45D4-9031-BA8B165C9A1A"
+    },
+    {
+      "class": "group",
+      "id": "5E8368C4-BD41-4E03-AE8B-61E4C4F86F2B"
+    },
+    {
+      "class": "group",
+      "id": "39C1E722-E9DE-4440-9CCB-7E811B5E0C97"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "52D9F952-7C9F-4230-840A-F5AEAE7666AF"
     }
   ],
-  "name": "gpu",
+  "name": "云游戏",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "CF8D7DAB-FFBC-49DB-AF67-131540B02EAA_layerStyle"
+      "overrideName": "6C35838F-CC1B-45D4-9031-BA8B165C9A1A_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "52D9F952-7C9F-4230-840A-F5AEAE7666AF_layerStyle"
     }
   ],
   "presetDictionary": {
@@ -116,7 +133,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "266692FB-47D2-49A3-B9A4-C203D671B5A6",
+    "do_objectID": "CD9A60DE-91DB-43CD-9C02-66B82863FCE7",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -128,7 +145,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D1713A61-0D01-4EA0-BFFA-4DAA832E4341",
+  "symbolID": "60D423B7-D0B8-4126-BC7C-BC6B35384754",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

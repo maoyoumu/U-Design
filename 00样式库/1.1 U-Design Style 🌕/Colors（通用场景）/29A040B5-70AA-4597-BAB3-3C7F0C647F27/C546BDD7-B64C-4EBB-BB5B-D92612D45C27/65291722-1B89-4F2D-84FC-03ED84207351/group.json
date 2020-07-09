@@ -1,29 +1,11 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
-  "changeIdentifier": 1375,
   "clippingMaskMode": 0,
-  "do_objectID": "135D9519-7E82-4891-9F45-CF41DCEB9AD1",
+  "do_objectID": "65291722-1B89-4F2D-84FC-03ED84207351",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "svg",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -33,55 +15,50 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 96,
-    "y": 386
+    "height": 162,
+    "width": 570,
+    "x": 0,
+    "y": 311
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "CF8D7DAB-FFBC-49DB-AF67-131540B02EAA"
-    }
-  ],
-  "name": "gpu",
-  "nameIsFixed": true,
-  "overrideProperties": [
+      "class": "group",
+      "id": "7692F644-83B3-4B06-A413-36C385E45B4B"
+    },
     {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "CF8D7DAB-FFBC-49DB-AF67-131540B02EAA_layerStyle"
+      "class": "group",
+      "id": "D334D69D-77D1-4C39-922C-3F5B27114FD0"
+    },
+    {
+      "class": "text",
+      "id": "069707BD-585D-4198-9242-D7EC884A9E92"
+    },
+    {
+      "class": "rectangle",
+      "id": "3FB59CF7-EB91-496A-ACEB-A013D2F4FD7A"
+    },
+    {
+      "class": "rectangle",
+      "id": "B67867E5-7B50-413A-AFB7-E8843A0BBDD3"
     }
   ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
+  "name": "图例组备份 8",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -108,7 +85,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -116,7 +93,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "266692FB-47D2-49A3-B9A4-C203D671B5A6",
+    "do_objectID": "A1423A8C-AD88-47FD-9532-DE333470467D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -127,12 +104,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "D1713A61-0D01-4EA0-BFFA-4DAA832E4341",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

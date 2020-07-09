@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D9CB05C3-D572-4833-AE82-CC69C9A2AED8",
+  "do_objectID": "B67867E5-7B50-413A-AFB7-E8843A0BBDD3",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -80,7 +80,6 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "691AFE74-E079-49FC-B542-15AE12FEC2F6",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -116,17 +115,17 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "855AAF37-F448-4057-BE59-9F5163044D45",
+    "do_objectID": "34EE5048-7FB9-4D3A-9E87-D121499D4C37",
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.2,
-          "blue": 0.2,
-          "green": 0.08627450980392157,
-          "red": 0.0392156862745098
+          "alpha": 1,
+          "blue": 0.6627450980392157,
+          "green": 0.9529411764705882,
+          "red": 1
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -145,9 +144,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
+                "blue": 0.9529411764705882,
+                "green": 0.9176470588235294,
+                "red": 0.9058823529411765
               },
               "position": 0
             },
@@ -156,19 +155,14 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
+                "blue": 0.9529411764705882,
+                "green": 0.9176470588235294,
+                "red": 0.9058823529411765
               },
               "position": 1
             }
           ],
           "to": "{0.5, 1}"
-        },
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref": "images/d08c1da1c88ba69c0bea5c9bc165b7413eec1d1d.png",
-          "_ref_class": "MSImageData"
         },
         "isEnabled": true,
         "noiseIndex": 0,

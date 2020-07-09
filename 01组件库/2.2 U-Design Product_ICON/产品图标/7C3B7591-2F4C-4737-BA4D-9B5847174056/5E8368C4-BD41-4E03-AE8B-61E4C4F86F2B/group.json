@@ -1,29 +1,11 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
-  "changeIdentifier": 1375,
   "clippingMaskMode": 0,
-  "do_objectID": "135D9519-7E82-4891-9F45-CF41DCEB9AD1",
+  "do_objectID": "5E8368C4-BD41-4E03-AE8B-61E4C4F86F2B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "svg",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -32,56 +14,35 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 96,
-    "y": 386
+    "constrainProportions": true,
+    "height": 10,
+    "width": 10,
+    "x": 7,
+    "y": 8
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
-  "isVisible": true,
-  "layerListExpandedType": 2,
+  "isVisible": false,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "CF8D7DAB-FFBC-49DB-AF67-131540B02EAA"
+      "id": "0F7E9DF2-F78B-4EE9-A88B-FAEA1358C6E2"
     }
   ],
-  "name": "gpu",
-  "nameIsFixed": true,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "CF8D7DAB-FFBC-49DB-AF67-131540B02EAA_layerStyle"
-    }
-  ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
+  "name": "编组",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -116,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "266692FB-47D2-49A3-B9A4-C203D671B5A6",
+    "do_objectID": "E24A666D-5854-4E50-B54E-18DDECBA82C6",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -127,12 +88,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "D1713A61-0D01-4EA0-BFFA-4DAA832E4341",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }
