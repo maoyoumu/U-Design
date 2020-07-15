@@ -9,21 +9,12 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 26154,
+  "changeIdentifier": 622,
   "clippingMaskMode": 0,
-  "do_objectID": "7C3B7591-2F4C-4737-BA4D-9B5847174056",
+  "do_objectID": "A64E2F53-CC01-432A-AF9D-27FE2A8A21F8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "svg",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -35,14 +26,20 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 0,
-    "y": 471
+    "x": 197,
+    "y": 248
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 1,
+    "isEnabled": true,
+    "thickGridTimes": 8
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,7 +48,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,33 +60,16 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "6C35838F-CC1B-45D4-9031-BA8B165C9A1A"
-    },
-    {
-      "class": "group",
-      "id": "5E8368C4-BD41-4E03-AE8B-61E4C4F86F2B"
-    },
-    {
-      "class": "group",
-      "id": "39C1E722-E9DE-4440-9CCB-7E811B5E0C97"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "52D9F952-7C9F-4230-840A-F5AEAE7666AF"
+      "id": "D39F2A95-CE00-4865-89CF-882A69DC3A35"
     }
   ],
-  "name": "ucgs",
+  "name": "02 状态类/解释说明",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "6C35838F-CC1B-45D4-9031-BA8B165C9A1A_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "52D9F952-7C9F-4230-840A-F5AEAE7666AF_layerStyle"
+      "overrideName": "D39F2A95-CE00-4865-89CF-882A69DC3A35_layerStyle"
     }
   ],
   "presetDictionary": {
@@ -133,7 +113,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "CD9A60DE-91DB-43CD-9C02-66B82863FCE7",
+    "do_objectID": "1647F7BB-1F2D-4293-A10C-DA71736A93C3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -145,7 +125,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "60D423B7-D0B8-4126-BC7C-BC6B35384754",
+  "symbolID": "12D05121-E64D-43CA-B695-B8450501C7B4",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

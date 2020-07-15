@@ -1,5 +1,6 @@
 {
   "_class": "document",
+  "agreedToFontEmbedding": false,
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
@@ -21,8 +22,11 @@
     "images": [
     ]
   },
+  "autoEmbedFonts": false,
   "colorSpace": 1,
   "do_objectID": "1B408FE5-1445-4091-8842-D5C591FBD21C",
+  "fontReferences": [
+  ],
   "foreignLayerStyles": [
     {
       "_class": "MSImmutableForeignLayerStyle",
@@ -141,6 +145,8 @@
       "symbolPrivate": false
     }
   ],
+  "foreignSwatches": [
+  ],
   "foreignSymbols": [
   ],
   "foreignTextStyles": [
@@ -151,13 +157,18 @@
     ]
   },
   "meta": {
-    "appVersion": "64",
-    "build": 93537,
-    "version": 125
+    "appVersion": "67.2",
+    "build": 100443,
+    "version": 130
   },
   "pages": [
     "控件"
   ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  },
   "userInfo": {
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"

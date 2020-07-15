@@ -1,9 +1,8 @@
 {
-  "_class": "shapePath",
+  "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "185C9FB1-E496-4117-880D-D85B49C7BB87",
-  "edited": true,
+  "do_objectID": "42A8322F-3CDB-403F-86A3-C0B0305F5FA5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,64 +15,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2.419299225310265,
-    "width": 2.406828610746805,
-    "x": 5.651093894766179,
-    "y": 4.878189009175371
+    "height": 7.500694851921377,
+    "width": 20,
+    "x": 0,
+    "y": 5.151434834260726e-14
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "路径",
-  "nameIsFixed": false,
-  "pointRadiusBehaviour": 1,
-  "points": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.22279792746113969, 0}",
-      "curveMode": 2,
-      "curveTo": "{0.77720207253886031, 0}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0.49999999999999983, 0}"
+      "class": "shapePath",
+      "id": "7A5E3D14-571B-4981-8CA5-16D7466C8073"
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 0.77577319587628901}",
-      "curveMode": 2,
-      "curveTo": "{0, 0.22422680412371099}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0, 0.5}"
+      "class": "shapePath",
+      "id": "5F471486-1A8E-46F3-A2FD-3FDF1EABEA9D"
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.77461139896373021, 1}",
-      "curveMode": 2,
-      "curveTo": "{0.22538860103626945, 1}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0.49999999999999983, 1}"
+      "class": "rectangle",
+      "id": "5F50B729-5627-4654-83BB-0E498F290936"
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 0.22422680412371099}",
-      "curveMode": 2,
-      "curveTo": "{1, 0.77577319587628901}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{1, 0.5}"
+      "class": "rectangle",
+      "id": "E87B4335-A86D-48EC-B247-2C2E4EA4BBBC"
     }
   ],
+  "name": "形状",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -112,7 +89,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "683746A5-E490-4FE3-85C8-172F3825E733",
+    "do_objectID": "5845FA0E-866B-4DCA-A636-041A4A307BDF",
     "endMarkerType": 0,
     "fills": [
       {
@@ -120,9 +97,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -175,5 +152,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 0
-  }
+  },
+  "windingRule": 0
 }
