@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C965E978-8F90-46D3-B63E-062946E70295",
+    "do_objectID": "66849B09-A2E2-4E7C-9A62-4F36CDE95921",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -51,10 +51,10 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.8509803921568627,
-          "green": 0.792156862745098,
-          "red": 0.7647058823529411
+          "alpha": 0.2,
+          "blue": 0.2,
+          "green": 0.08627450980392157,
+          "red": 0.0392156862745098
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
