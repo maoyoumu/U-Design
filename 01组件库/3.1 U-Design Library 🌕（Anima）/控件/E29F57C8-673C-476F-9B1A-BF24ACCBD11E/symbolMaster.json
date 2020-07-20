@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 180,
+  "changeIdentifier": 208,
   "clippingMaskMode": 0,
-  "do_objectID": "C1504D27-F033-4A34-A6CA-13529EF412E5",
+  "do_objectID": "E29F57C8-673C-476F-9B1A-BF24ACCBD11E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
+    "height": 28,
     "width": 240,
     "x": 810,
-    "y": -1.77635683940025e-15
+    "y": 69
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -54,20 +54,20 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "FD6F9677-C35D-4A88-8961-C105E580F423"
+      "id": "5910359B-F7D8-46E0-ACB4-45BCCD73ECD8"
     },
     {
       "class": "text",
-      "id": "558BA7D6-FF16-4B90-B0E1-1BB975EC24AF"
+      "id": "4F6ED0DF-66FE-4D1D-8498-9E761CAE617D"
     }
   ],
-  "name": "占位符/大号控件（32h）",
+  "name": "占位符/中号控件（28h）",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
-      "overrideName": "558BA7D6-FF16-4B90-B0E1-1BB975EC24AF_stringValue"
+      "overrideName": "4F6ED0DF-66FE-4D1D-8498-9E761CAE617D_stringValue"
     }
   ],
   "presetDictionary": {
@@ -111,7 +111,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F213A482-7C5E-4AE7-BBE7-C6BD8AF1EF29",
+    "do_objectID": "B5967C50-EC41-4F7D-8704-19F2D42913F5",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,7 +123,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "47BC7106-494F-4512-ACF0-BDA5C56911F7",
+  "symbolID": "5BB93A6A-42C6-4F17-A4D4-4BA3BB138A01",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

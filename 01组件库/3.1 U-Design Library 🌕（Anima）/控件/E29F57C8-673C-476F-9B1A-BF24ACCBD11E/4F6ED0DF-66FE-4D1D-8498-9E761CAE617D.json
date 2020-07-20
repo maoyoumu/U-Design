@@ -31,12 +31,12 @@
         "location": 0
       }
     ],
-    "string": "替换组件（大尺寸）"
+    "string": "替换组件（中尺寸）"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "558BA7D6-FF16-4B90-B0E1-1BB975EC24AF",
+  "do_objectID": "4F6ED0DF-66FE-4D1D-8498-9E761CAE617D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,7 +53,7 @@
     "height": 17,
     "width": 111,
     "x": 65,
-    "y": 8
+    "y": 6
   },
   "glyphBounds": "{{0, 3}, {102, 12}}",
   "hasClippingMask": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "替换组件（大尺寸）",
+  "name": "替换组件（中尺寸）",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -104,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "00D47326-4740-4310-98E4-73507A4EED3E",
+    "do_objectID": "DA61AAD3-825A-48B5-BC76-7F6E2F51732C",
     "endMarkerType": 0,
     "fills": [
     ],
