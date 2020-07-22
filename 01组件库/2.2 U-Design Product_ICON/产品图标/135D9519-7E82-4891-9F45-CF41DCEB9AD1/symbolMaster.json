@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1375,
+  "changeIdentifier": 4379,
   "clippingMaskMode": 0,
   "do_objectID": "135D9519-7E82-4891-9F45-CF41DCEB9AD1",
   "exportOptions": {
@@ -35,8 +35,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 96,
-    "y": 386
+    "x": 240,
+    "y": 556
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -63,7 +63,7 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "CF8D7DAB-FFBC-49DB-AF67-131540B02EAA"
+      "id": "D5596781-4443-4809-8A69-FAE1C440DFAD"
     }
   ],
   "name": "gpu",
@@ -72,7 +72,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "CF8D7DAB-FFBC-49DB-AF67-131540B02EAA_layerStyle"
+      "overrideName": "D5596781-4443-4809-8A69-FAE1C440DFAD_layerStyle"
     }
   ],
   "presetDictionary": {

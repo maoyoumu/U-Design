@@ -361,7 +361,7 @@
     },
     {
       "class": "symbolMaster",
-      "id": "9A70A9AF-9D7E-41E4-98C5-E5FA69B03C77"
+      "id": "B3255A76-101C-4243-91A4-E36C7ED10A76"
     },
     {
       "class": "symbolMaster",
@@ -423,6 +423,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",
