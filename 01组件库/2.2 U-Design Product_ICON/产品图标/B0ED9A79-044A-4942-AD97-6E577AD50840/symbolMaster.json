@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 76,
+  "changeIdentifier": 1456,
   "clippingMaskMode": 0,
   "do_objectID": "B0ED9A79-044A-4942-AD97-6E577AD50840",
   "exportOptions": {
@@ -35,8 +35,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 192,
-    "y": 48
+    "x": 96,
+    "y": 556
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -59,11 +59,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "BB367815-D225-4341-96FA-FBA845230FBF"
+      "id": "3F231F98-C6EA-45D5-87D6-90AB50E7DC6A"
     }
   ],
   "name": "uapi",
@@ -72,7 +72,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "BB367815-D225-4341-96FA-FBA845230FBF_layerStyle"
+      "overrideName": "3F231F98-C6EA-45D5-87D6-90AB50E7DC6A_layerStyle"
     }
   ],
   "presetDictionary": {
