@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 249,
+  "changeIdentifier": 250,
   "clippingMaskMode": 0,
   "do_objectID": "B3483B84-80D9-4B39-BDD3-CA4CC376756B",
   "exportOptions": {
@@ -39,7 +39,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -63,7 +63,7 @@
       "id": "1787EAD8-9D94-41D2-9B77-D2CD0604E12E"
     }
   ],
-  "name": "01 操作类/添加",
+  "name": "01 操作类/添加/大",
   "nameIsFixed": true,
   "overrideProperties": [
     {

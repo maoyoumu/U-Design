@@ -1,0 +1,155 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4D0187A7-DE9C-4A07-880D-CC24F6A40E58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2386,
+    "width": 1440,
+    "x": 895,
+    "y": 20
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "049D8751-F0A9-4499-AFE2-CA8B1398A5A3"
+    },
+    {
+      "class": "text",
+      "id": "C700767C-F025-4A23-8925-C1702CB10D67"
+    },
+    {
+      "class": "text",
+      "id": "D6904B49-5304-4958-9F60-56F8C453E093"
+    },
+    {
+      "class": "text",
+      "id": "7F25A217-1670-456A-9556-EF9B67614FC9"
+    },
+    {
+      "class": "text",
+      "id": "F066D548-81F4-4064-BE56-AB42B2C8B2D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6C9C1D6-871E-497C-9B33-7A2948656AE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D771AB39-1250-4E25-89AE-95C4F14381F8"
+    },
+    {
+      "class": "group",
+      "id": "ED869061-1262-4E9B-81DE-C5C9B14B2744"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8652CF00-D605-453A-89D4-60E2996A84DF"
+    }
+  ],
+  "name": "自增组件（轻量）",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "桌面端 HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "1FA34CAE-6E05-4449-A9BB-4A616EAD285E",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
