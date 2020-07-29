@@ -109,11 +109,19 @@
     },
     {
       "class": "symbolMaster",
+      "id": "95A0A12A-9A8C-4F37-9779-E46EE4736589"
+    },
+    {
+      "class": "symbolMaster",
       "id": "39AAD5F2-6FBF-47CD-BB49-D8D600C68ACC"
     },
     {
       "class": "symbolMaster",
       "id": "FE3AC698-89F8-42E8-8FCF-1F3EF9306E89"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BC1D7749-6F77-40EE-BBFA-F7EDA994A889"
     },
     {
       "class": "symbolMaster",
@@ -141,6 +149,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "11D77433-5AB7-4173-95E5-306356DC5BFA"
+    },
+    {
+      "class": "symbolMaster",
       "id": "1BA7BE58-AA24-4D0E-A736-C78D40EDCB59"
     },
     {
@@ -157,11 +169,27 @@
     },
     {
       "class": "symbolMaster",
+      "id": "709EBD66-DD18-48EC-9BBA-38C1E943A087"
+    },
+    {
+      "class": "symbolMaster",
       "id": "E4283481-A31A-4DAC-B5D8-49BB8C2708AC"
     },
     {
       "class": "symbolMaster",
       "id": "41B2ACF2-25FB-4E2E-910F-E25EC1598F5E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F6A7C422-ADAA-4191-A2FB-0A7B626C3113"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EE125E56-3BB6-4A30-914A-DD9DCD31F972"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F4F0973D-DB12-4D8F-8A2E-5D7A7E3CA09A"
     }
   ],
   "name": "控件",
@@ -217,6 +245,9 @@
     "windingRule": 1
   },
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    },
     "com.sonburn.sketchplugins.symbol-organizer": {
       "displayTitles": "1",
       "gPad": "\"100\"",
