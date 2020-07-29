@@ -30,7 +30,7 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -78,12 +78,16 @@
       "id": "D771AB39-1250-4E25-89AE-95C4F14381F8"
     },
     {
-      "class": "group",
-      "id": "ED869061-1262-4E9B-81DE-C5C9B14B2744"
+      "class": "symbolInstance",
+      "id": "E67492E9-D580-484C-8BFE-BE1DB86BB330"
     },
     {
       "class": "symbolInstance",
       "id": "8652CF00-D605-453A-89D4-60E2996A84DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "008FE7C8-210A-4CFF-B16F-331A735A6140"
     }
   ],
   "name": "自增组件（轻量）",

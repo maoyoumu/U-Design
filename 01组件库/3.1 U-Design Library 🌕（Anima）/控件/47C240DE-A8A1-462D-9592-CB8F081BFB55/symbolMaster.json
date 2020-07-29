@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 247,
+  "changeIdentifier": 340,
   "clippingMaskMode": 0,
   "do_objectID": "47C240DE-A8A1-462D-9592-CB8F081BFB55",
   "exportOptions": {
@@ -24,8 +24,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 156,
-    "width": 590,
+    "height": 108,
+    "width": 542,
     "x": 2256,
     "y": 261
   },
@@ -50,21 +50,16 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "581528CB-C646-4E3A-B362-78CE5DE1E9AA"
+      "id": "4738A7B1-0638-48C9-B6BC-E1F78BDB290F"
     }
   ],
   "name": "自增组件/表格/空内容/01悬停",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "DE7FF952-A12D-4657-98C9-797E39700690_layerStyle"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -74,11 +69,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "8C0BD887-5ADC-4988-A28D-21AE55443BE4_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "DDD395A6-88CB-497C-A40A-E1BD1FA4530D_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

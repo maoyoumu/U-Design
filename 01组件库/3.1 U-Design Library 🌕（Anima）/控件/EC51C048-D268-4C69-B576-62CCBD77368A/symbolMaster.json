@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 560,
+  "changeIdentifier": 720,
   "clippingMaskMode": 0,
   "do_objectID": "EC51C048-D268-4C69-B576-62CCBD77368A",
   "exportOptions": {
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 156,
-    "width": 590,
+    "height": 108,
+    "width": 544,
     "x": 2256,
-    "y": 0
+    "y": -7.105427357601002e-15
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,11 +50,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "412C916C-F661-4085-BE3F-72897E4214E1"
+      "id": "34C6FF37-6E7A-4B69-BD59-C50531BB294C"
     }
   ],
   "name": "自增组件/表格/空内容/00常规",
@@ -63,7 +63,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "70736E5B-4D09-48C7-8F87-A214AFDBCF9B_layerStyle"
+      "overrideName": "15784630-1C3D-46E4-8145-A5B8E503AA62_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -73,27 +73,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "B1179A97-51C5-41CB-960F-8F0BDA77E4F3_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "7A88169B-2866-4DBF-BCA7-BCBE224BFB2B_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "9235FD6C-8EE6-4E8A-AF5B-A9E2D4FEE3DF_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "45BD8316-09AD-4202-B683-EDDDB45211DD_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "03050223-706D-443B-B356-0D75D62E3A00_layerStyle"
     }
   ],
   "presetDictionary": {
