@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 494,
+  "changeIdentifier": 504,
   "clippingMaskMode": 0,
   "do_objectID": "6B4B3A35-5673-46C0-A6B9-81BA9BAB1359",
   "exportOptions": {
@@ -61,6 +61,10 @@
     {
       "class": "shapeGroup",
       "id": "99742174-5E02-4BB9-B095-4B4530483CB6"
+    },
+    {
+      "class": "rectangle",
+      "id": "859D6C1B-7FA5-4FF3-A05B-F0A5BD739149"
     }
   ],
   "name": "02 状态类/提示",
@@ -70,6 +74,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "99742174-5E02-4BB9-B095-4B4530483CB6_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "859D6C1B-7FA5-4FF3-A05B-F0A5BD739149_layerStyle"
     }
   ],
   "presetDictionary": {

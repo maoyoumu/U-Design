@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4608,
+  "changeIdentifier": 4620,
   "clippingMaskMode": 0,
   "do_objectID": "EFCAE9F4-8549-4FFD-B9D9-E7A0FBB3EDEA",
   "exportOptions": {
@@ -61,11 +61,25 @@
     {
       "class": "shapePath",
       "id": "E69ED236-AB8D-46A6-94E3-FFDC36ED56B3"
+    },
+    {
+      "class": "rectangle",
+      "id": "B65A23C4-5832-481E-8BC9-F76D3EFC89BE"
     }
   ],
   "name": "01 操作类/筛选",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E69ED236-AB8D-46A6-94E3-FFDC36ED56B3_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "B65A23C4-5832-481E-8BC9-F76D3EFC89BE_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 326,
+  "changeIdentifier": 334,
   "clippingMaskMode": 0,
   "do_objectID": "EE125E56-3BB6-4A30-914A-DD9DCD31F972",
   "exportOptions": {
@@ -55,11 +55,20 @@
     {
       "class": "shapeGroup",
       "id": "71DFCB8F-D0F0-4961-BAF2-7734959E23A7"
+    },
+    {
+      "class": "rectangle",
+      "id": "300CE933-AC24-4FAC-9B53-8BE06847D072"
     }
   ],
   "name": "技术与硬件/1",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "300CE933-AC24-4FAC-9B53-8BE06847D072_layerStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

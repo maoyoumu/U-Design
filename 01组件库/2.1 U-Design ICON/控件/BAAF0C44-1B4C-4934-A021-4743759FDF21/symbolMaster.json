@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 160,
+  "changeIdentifier": 161,
   "clippingMaskMode": 0,
   "do_objectID": "BAAF0C44-1B4C-4934-A021-4743759FDF21",
   "exportOptions": {
@@ -61,6 +61,10 @@
     {
       "class": "group",
       "id": "10D5DA8A-7003-4CE3-9D79-B29ECA74C890"
+    },
+    {
+      "class": "rectangle",
+      "id": "53E856F6-4016-4DB7-B206-405D3B0FA9F5"
     }
   ],
   "name": "00 图标设计模版",

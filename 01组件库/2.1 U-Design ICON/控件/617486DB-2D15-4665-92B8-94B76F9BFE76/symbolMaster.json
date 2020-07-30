@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1149,
+  "changeIdentifier": 1158,
   "clippingMaskMode": 0,
   "do_objectID": "617486DB-2D15-4665-92B8-94B76F9BFE76",
   "exportOptions": {
@@ -61,6 +61,10 @@
     {
       "class": "shapePath",
       "id": "D657E9E7-E61A-4340-B17D-48741827F116"
+    },
+    {
+      "class": "rectangle",
+      "id": "A8E603EC-B5BB-4E2B-8BF1-6BAD76658019"
     }
   ],
   "name": "01 操作类/后退/大",
@@ -70,6 +74,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "D657E9E7-E61A-4340-B17D-48741827F116_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "A8E603EC-B5BB-4E2B-8BF1-6BAD76658019_layerStyle"
     }
   ],
   "presetDictionary": {

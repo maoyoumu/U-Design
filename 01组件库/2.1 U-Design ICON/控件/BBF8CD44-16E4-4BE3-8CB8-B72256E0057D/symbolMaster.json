@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4564,
+  "changeIdentifier": 4575,
   "clippingMaskMode": 0,
   "do_objectID": "BBF8CD44-16E4-4BE3-8CB8-B72256E0057D",
   "exportOptions": {
@@ -61,6 +61,10 @@
     {
       "class": "shapeGroup",
       "id": "B98B6A7A-AC4B-464F-9483-2A9F83239AC1"
+    },
+    {
+      "class": "rectangle",
+      "id": "3E903D0F-1A8B-4717-82F2-84878BBBB2E9"
     }
   ],
   "name": "01 操作类/关闭",
@@ -70,6 +74,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "B98B6A7A-AC4B-464F-9483-2A9F83239AC1_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "3E903D0F-1A8B-4717-82F2-84878BBBB2E9_layerStyle"
     }
   ],
   "presetDictionary": {
