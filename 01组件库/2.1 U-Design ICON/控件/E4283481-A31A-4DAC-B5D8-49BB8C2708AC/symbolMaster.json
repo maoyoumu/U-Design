@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 827,
+  "changeIdentifier": 837,
   "clippingMaskMode": 0,
   "do_objectID": "E4283481-A31A-4DAC-B5D8-49BB8C2708AC",
   "exportOptions": {
@@ -61,6 +61,10 @@
     {
       "class": "oval",
       "id": "02657767-7A37-466A-8AA4-27BD2092F21F"
+    },
+    {
+      "class": "rectangle",
+      "id": "1DF5FCBD-2EBA-4BA7-B4C5-EAA4AF67E779"
     }
   ],
   "name": "03 组件类/单选确认",
@@ -70,6 +74,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "02657767-7A37-466A-8AA4-27BD2092F21F_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "1DF5FCBD-2EBA-4BA7-B4C5-EAA4AF67E779_layerStyle"
     }
   ],
   "presetDictionary": {

@@ -190,6 +190,10 @@
     {
       "class": "symbolMaster",
       "id": "F4F0973D-DB12-4D8F-8A2E-5D7A7E3CA09A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "600F2A22-B112-4E03-A15C-0549D256F81D"
     }
   ],
   "name": "控件",

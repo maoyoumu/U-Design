@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 372,
+  "changeIdentifier": 381,
   "clippingMaskMode": 0,
   "do_objectID": "18A460BE-C28B-441D-830B-9ECFD10C02DE",
   "exportOptions": {
@@ -61,11 +61,20 @@
     {
       "class": "triangle",
       "id": "21B215A9-E9BF-4653-905F-7D1F739553BD"
+    },
+    {
+      "class": "rectangle",
+      "id": "1F560444-C361-4E78-8333-504EA8F9F795"
     }
   ],
   "name": "01 操作类/添加/箭头",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "1F560444-C361-4E78-8333-504EA8F9F795_layerStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

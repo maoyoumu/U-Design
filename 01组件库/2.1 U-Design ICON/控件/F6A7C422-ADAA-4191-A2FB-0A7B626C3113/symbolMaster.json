@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 288,
+  "changeIdentifier": 297,
   "clippingMaskMode": 0,
   "do_objectID": "F6A7C422-ADAA-4191-A2FB-0A7B626C3113",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,11 +55,25 @@
     {
       "class": "shapeGroup",
       "id": "3AD320DD-0C39-4412-997D-E0E7186E6767"
+    },
+    {
+      "class": "rectangle",
+      "id": "AA54442F-70F3-4D74-81DD-B7359DA7CA68"
     }
   ],
   "name": "04文档/表",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "AA54442F-70F3-4D74-81DD-B7359DA7CA68_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3AD320DD-0C39-4412-997D-E0E7186E6767_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

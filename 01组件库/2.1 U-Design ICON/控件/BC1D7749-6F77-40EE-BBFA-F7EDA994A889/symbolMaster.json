@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 834,
+  "changeIdentifier": 846,
   "clippingMaskMode": 0,
   "do_objectID": "BC1D7749-6F77-40EE-BBFA-F7EDA994A889",
   "exportOptions": {
@@ -61,6 +61,10 @@
     {
       "class": "shapeGroup",
       "id": "AB51B606-1142-449B-984C-FCAB24111CC9"
+    },
+    {
+      "class": "rectangle",
+      "id": "6BB807AE-B15C-4BD1-ABF1-1A914C82D8ED"
     }
   ],
   "name": "01 操作类/收起/双",
@@ -69,12 +73,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D0AE95D6-EAB6-4465-9B48-CEC8D894F16F_layerStyle"
+      "overrideName": "AB51B606-1142-449B-984C-FCAB24111CC9_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "060E4E6F-D44A-4B83-AD26-012EE693475A_layerStyle"
+      "canOverride": false,
+      "overrideName": "6BB807AE-B15C-4BD1-ABF1-1A914C82D8ED_layerStyle"
     }
   ],
   "presetDictionary": {

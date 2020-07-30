@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 823,
+    "height": 1887,
     "width": 1440,
     "x": 49,
     "y": -1478
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,6 +60,10 @@
     {
       "class": "group",
       "id": "03A120A6-9DF0-4E20-BD75-8D7D37F236DB"
+    },
+    {
+      "class": "group",
+      "id": "ACAD9EBF-A170-4EBC-A749-DC03C5EEBDCF"
     }
   ],
   "name": "内阴影",

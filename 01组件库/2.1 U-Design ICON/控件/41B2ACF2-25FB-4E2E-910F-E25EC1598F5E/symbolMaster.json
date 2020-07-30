@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 971,
+  "changeIdentifier": 981,
   "clippingMaskMode": 0,
   "do_objectID": "41B2ACF2-25FB-4E2E-910F-E25EC1598F5E",
   "exportOptions": {
@@ -61,6 +61,10 @@
     {
       "class": "shapeGroup",
       "id": "52DAD721-E1B2-4E57-9086-737930615CE7"
+    },
+    {
+      "class": "rectangle",
+      "id": "0DC041B6-8A88-4906-B038-8134AFB6D053"
     }
   ],
   "name": "03 组件类/日历",
@@ -70,6 +74,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "52DAD721-E1B2-4E57-9086-737930615CE7_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "0DC041B6-8A88-4906-B038-8134AFB6D053_layerStyle"
     }
   ],
   "presetDictionary": {

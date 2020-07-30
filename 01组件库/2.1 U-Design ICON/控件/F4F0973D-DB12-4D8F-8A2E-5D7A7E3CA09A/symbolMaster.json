@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 89,
+  "changeIdentifier": 102,
   "clippingMaskMode": 0,
   "do_objectID": "F4F0973D-DB12-4D8F-8A2E-5D7A7E3CA09A",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,16 +50,30 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "0CD3B644-4A6A-429A-94E9-42825313C7DE"
+    },
+    {
+      "class": "rectangle",
+      "id": "D7323E05-214E-461D-A94B-8EAD7C11B726"
     }
   ],
   "name": "技术与硬件/2",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "D7323E05-214E-461D-A94B-8EAD7C11B726_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0CD3B644-4A6A-429A-94E9-42825313C7DE_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

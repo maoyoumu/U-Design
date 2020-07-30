@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 250,
+  "changeIdentifier": 259,
   "clippingMaskMode": 0,
   "do_objectID": "B3483B84-80D9-4B39-BDD3-CA4CC376756B",
   "exportOptions": {
@@ -39,7 +39,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,11 +61,20 @@
     {
       "class": "shapeGroup",
       "id": "1787EAD8-9D94-41D2-9B77-D2CD0604E12E"
+    },
+    {
+      "class": "rectangle",
+      "id": "DCF0038C-8F4A-4E09-A5E8-B154FFC60D50"
     }
   ],
   "name": "01 操作类/添加/大",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "DCF0038C-8F4A-4E09-A5E8-B154FFC60D50_layerStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
