@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4090,
+    "height": 5267,
     "width": 1440,
     "x": -1491,
     "y": -2763
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -80,6 +80,34 @@
     {
       "class": "group",
       "id": "8712B16C-3F00-4C5B-9A99-AFA9AA591ECE"
+    },
+    {
+      "class": "text",
+      "id": "5C3E3CE3-3C14-41E9-AF52-65EE4F1C0DA3"
+    },
+    {
+      "class": "text",
+      "id": "2FC86B20-8F59-421E-8EBA-32C9BAF5C487"
+    },
+    {
+      "class": "text",
+      "id": "15E2D8E6-AEEC-4443-870D-12C5B32BCF93"
+    },
+    {
+      "class": "text",
+      "id": "DD8F18E3-8105-4F34-BBB6-B14C2DCF60F5"
+    },
+    {
+      "class": "rectangle",
+      "id": "D436F8D1-8543-4F3D-95BA-198EA3DD5199"
+    },
+    {
+      "class": "rectangle",
+      "id": "DC7E53AE-2D40-4BA6-BA09-9FB279F4FDEC"
+    },
+    {
+      "class": "text",
+      "id": "41F42107-930D-41D8-A5D5-EB660B9EA21E"
     }
   ],
   "name": "应用场景-01背景",

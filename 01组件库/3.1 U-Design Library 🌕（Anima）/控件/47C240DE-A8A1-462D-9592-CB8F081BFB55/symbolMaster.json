@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 340,
+  "changeIdentifier": 342,
   "clippingMaskMode": 0,
   "do_objectID": "47C240DE-A8A1-462D-9592-CB8F081BFB55",
   "exportOptions": {
@@ -57,13 +57,13 @@
       "id": "4738A7B1-0638-48C9-B6BC-E1F78BDB290F"
     }
   ],
-  "name": "自增组件/表格/空内容/01悬停",
+  "name": "高级-Anima/自增组件/表格/空内容/01悬停",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "47229D6B-6943-4001-A05E-F9FE94C73696_layerStyle"
+      "overrideName": "423B4D48-2F69-4AA5-827B-1740F572568E_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -79,11 +79,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "AFC101F4-E056-43EE-ACCD-4596E82F0D1E_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "6C1A3FAE-92EC-4E82-931F-0F94696F5157_symbolID"
     }
   ],
   "presetDictionary": {

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 720,
+  "changeIdentifier": 721,
   "clippingMaskMode": 0,
   "do_objectID": "EC51C048-D268-4C69-B576-62CCBD77368A",
   "exportOptions": {
@@ -57,7 +57,7 @@
       "id": "34C6FF37-6E7A-4B69-BD59-C50531BB294C"
     }
   ],
-  "name": "自增组件/表格/空内容/00常规",
+  "name": "高级-Anima/自增组件/表格/空内容/00常规",
   "nameIsFixed": false,
   "overrideProperties": [
     {

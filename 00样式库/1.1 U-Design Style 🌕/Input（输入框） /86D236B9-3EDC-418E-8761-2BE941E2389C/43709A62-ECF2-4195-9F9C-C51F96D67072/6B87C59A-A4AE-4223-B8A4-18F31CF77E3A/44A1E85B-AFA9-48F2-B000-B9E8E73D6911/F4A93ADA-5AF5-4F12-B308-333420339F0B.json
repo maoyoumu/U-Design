@@ -33,7 +33,7 @@
         "location": 0
       }
     ],
-    "string": "输入框默认背景"
+    "string": "输入框激活背景"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -65,8 +65,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "输入框默认背景",
+  "lineSpacingBehaviour": 3,
+  "name": "输入框激活背景",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

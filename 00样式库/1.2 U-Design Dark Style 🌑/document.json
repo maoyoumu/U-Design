@@ -1,5 +1,6 @@
 {
   "_class": "document",
+  "agreedToFontEmbedding": false,
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
@@ -21,9 +22,14 @@
     "images": [
     ]
   },
+  "autoEmbedFonts": false,
   "colorSpace": 1,
   "do_objectID": "820583F7-1683-4375-A535-F5A54D24643A",
+  "fontReferences": [
+  ],
   "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
   ],
   "foreignSymbols": [
   ],
@@ -35,16 +41,25 @@
     ]
   },
   "meta": {
-    "appVersion": "64",
-    "build": 93537,
-    "version": 125
+    "appVersion": "67.2",
+    "build": 100443,
+    "version": 130
   },
   "pages": [
     "Brand（原色）",
     "Colors（通用场景）",
     "Shadow（阴影）",
-    "Typography （所有字符）"
+    "Typography （所有字符）",
+    "导航",
+    "卡片",
+    "按钮",
+    "输入框"
   ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  },
   "userInfo": {
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"

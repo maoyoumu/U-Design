@@ -33,7 +33,7 @@
         "location": 0
       }
     ],
-    "string": "180deg, #151C2C 0%, #151C2C 100%)"
+    "string": "180deg, #191B1F 0%, #191B1F 100%)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 297,
+    "width": 284,
     "x": 0,
     "y": 28
   },
-  "glyphBounds": "{{0, 4}, {295, 18}}",
+  "glyphBounds": "{{0, 4}, {283, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,8 +65,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "180deg, #151C2C 0%,",
+  "lineSpacingBehaviour": 3,
+  "name": "180deg, #191B1F 0%,",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

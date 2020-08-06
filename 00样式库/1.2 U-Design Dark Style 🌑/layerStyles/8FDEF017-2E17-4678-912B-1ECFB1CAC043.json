@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AF4B8FAF-A8CD-4AD8-BC5D-9EBF8A58BE98",
+    "do_objectID": "C8A77BC7-6CA3-4A1A-B8F4-17EA0DF3D5AE",
     "endMarkerType": 0,
     "fills": [
       {
@@ -44,9 +44,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1686274509803922,
-          "green": 0.1019607843137255,
-          "red": 0.0784313725490196
+          "blue": 0.1803921568627451,
+          "green": 0.1568627450980392,
+          "red": 0.1490196078431373
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
