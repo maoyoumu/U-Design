@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 34,
+  "changeIdentifier": 35,
   "clippingMaskMode": 0,
   "do_objectID": "DA8B0D0F-5B79-4F18-B80C-4FC1EFAF71DB",
   "exportOptions": {
@@ -57,7 +57,7 @@
       "id": "37142716-C40B-4DDB-BFD1-B1555707CB63"
     }
   ],
-  "name": "自增组件/轻量/初始",
+  "name": "高级-Anima/自增组件/轻量/初始",
   "nameIsFixed": true,
   "overrideProperties": [
     {

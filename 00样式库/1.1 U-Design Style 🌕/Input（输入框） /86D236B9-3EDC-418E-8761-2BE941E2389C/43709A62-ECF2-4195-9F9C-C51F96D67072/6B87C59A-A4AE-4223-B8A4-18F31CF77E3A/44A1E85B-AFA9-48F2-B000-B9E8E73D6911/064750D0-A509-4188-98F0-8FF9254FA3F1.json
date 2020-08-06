@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 24,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "T_INPUT_COLOR_BG_DEFAULT"
+    "string": "T_INPUT_COLOR_BG_ACTIVE"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 221,
+    "width": 207,
     "x": 0,
     "y": 29
   },
-  "glyphBounds": "{{0, 6}, {220, 13}}",
+  "glyphBounds": "{{0, 6}, {206, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,8 +65,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "T_INPUT_COLOR_BG_DEF",
+  "lineSpacingBehaviour": 3,
+  "name": "T_INPUT_COLOR_BG_ACT",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

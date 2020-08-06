@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 23,
+  "changeIdentifier": 24,
   "clippingMaskMode": 0,
   "do_objectID": "2D4A24DA-7AAC-438F-83CF-E360802A285C",
   "exportOptions": {
@@ -57,7 +57,7 @@
       "id": "B77C78E4-509E-44BF-BC39-0BCAA26ED431"
     }
   ],
-  "name": "自增组件/轻量/组合",
+  "name": "高级-Anima/自增组件/轻量/组合",
   "nameIsFixed": false,
   "overrideProperties": [
     {

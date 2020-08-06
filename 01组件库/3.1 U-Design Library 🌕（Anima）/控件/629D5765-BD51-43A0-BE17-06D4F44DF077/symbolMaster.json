@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 5,
   "clippingMaskMode": 0,
   "do_objectID": "629D5765-BD51-43A0-BE17-06D4F44DF077",
   "exportOptions": {
@@ -57,9 +57,24 @@
       "id": "0718210D-0AD2-412B-84D4-1DEC2FFF6EE7"
     }
   ],
-  "name": "控件组/中",
+  "name": "高级-Anima/控件组/中",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DB0EA743-4E83-46D1-BC9A-61CF0F889051_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9F0F2EF8-AF05-4C0B-962B-C4FB8A810250_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D3374C8E-8BC2-4DB9-B3FF-AFE32546B941_symbolID"
+    }
   ],
   "presetDictionary": {
   },

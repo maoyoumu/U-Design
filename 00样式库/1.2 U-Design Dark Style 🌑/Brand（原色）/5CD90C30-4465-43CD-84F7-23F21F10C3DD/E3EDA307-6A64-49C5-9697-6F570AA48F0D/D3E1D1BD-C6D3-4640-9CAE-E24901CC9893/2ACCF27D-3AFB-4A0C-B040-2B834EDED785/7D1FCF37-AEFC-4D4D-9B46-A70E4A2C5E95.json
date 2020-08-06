@@ -33,7 +33,7 @@
         "location": 0
       }
     ],
-    "string": "#3F4A70"
+    "string": "#5A5F70"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -65,8 +65,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "#3F4A70",
+  "lineSpacingBehaviour": 3,
+  "name": "#5A5F70",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

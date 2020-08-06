@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 392,
+  "changeIdentifier": 394,
   "clippingMaskMode": 0,
   "do_objectID": "CA384E05-92D7-4D70-8CCF-7B62CEB2F1D8",
   "exportOptions": {
@@ -57,7 +57,7 @@
       "id": "7952F746-E6C1-445C-AA45-1597C0C32867"
     }
   ],
-  "name": "自增组件/表格/空内容/02禁用",
+  "name": "高级-Anima/自增组件/表格/空内容/02禁用",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -68,17 +68,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "6C175BBE-5E10-4969-ACAD-0285D25C0D6E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "1779E2D6-DF55-4C74-B531-0A792B3DB2C8_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "05F577B8-DDB7-4484-B956-940A529D37C1_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "71B65342-056D-4B57-9F92-5C90FB218058_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

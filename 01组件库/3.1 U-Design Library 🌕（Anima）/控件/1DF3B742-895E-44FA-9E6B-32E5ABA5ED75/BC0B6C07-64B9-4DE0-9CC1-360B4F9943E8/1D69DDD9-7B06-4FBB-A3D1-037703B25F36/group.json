@@ -39,7 +39,7 @@
   ],
   "name": "占位符/大号控件（32h） 2",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -91,7 +91,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.5
     },
     "do_objectID": "DBC509F6-E54D-4EFA-8403-E9F76F48EF5F",
     "endMarkerType": 0,

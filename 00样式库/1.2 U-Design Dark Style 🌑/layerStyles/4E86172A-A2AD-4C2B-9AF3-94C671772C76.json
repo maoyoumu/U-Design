@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "4E86172A-A2AD-4C2B-9AF3-94C671772C76",
-  "name": "⚠️ 原色（不要直接用）/00常规色/01品牌色/品牌色2 2",
+  "name": "⚠️ 原色（不要直接用）/00常规色/01品牌色/品牌色2",
   "value": {
     "_class": "style",
     "blur": {
@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "32E5C419-79C1-4F40-9225-B6105F635145",
+    "do_objectID": "09784CFC-FB0D-4DD2-9BC4-7FB00F82D56F",
     "endMarkerType": 0,
     "fills": [
       {
@@ -44,9 +44,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3215686274509804,
-          "green": 0.2196078431372549,
-          "red": 0.1843137254901961
+          "blue": 0.29,
+          "green": 0.203,
+          "red": 0.1856
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

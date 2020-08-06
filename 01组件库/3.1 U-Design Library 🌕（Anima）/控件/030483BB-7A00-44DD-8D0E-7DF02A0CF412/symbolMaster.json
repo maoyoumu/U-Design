@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 830,
+  "changeIdentifier": 831,
   "clippingMaskMode": 0,
   "do_objectID": "030483BB-7A00-44DD-8D0E-7DF02A0CF412",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "5C232D4D-6F1B-4AF0-A2A6-7368E0589B68"
     }
   ],
-  "name": "自增组件/表格/添加内容/文本/01悬停",
+  "name": "高级-Anima/自增组件/表格/添加内容/文本/01悬停",
   "nameIsFixed": true,
   "overrideProperties": [
     {
