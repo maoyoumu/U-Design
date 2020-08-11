@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 706,
+  "changeIdentifier": 708,
   "clippingMaskMode": 0,
   "do_objectID": "A2AD746A-3210-4B99-8FDD-300E418DB0AC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -39,7 +48,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

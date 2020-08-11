@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3209,
+  "changeIdentifier": 3473,
   "clippingMaskMode": 0,
-  "do_objectID": "19ABE037-A673-4D79-AFC1-11CBA2960F0D",
+  "do_objectID": "25C6BEA4-C85C-4CF2-8DC7-3D956C97E730",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -26,14 +35,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 198,
-    "y": 157
-  },
-  "grid": {
-    "_class": "simpleGrid",
-    "gridSize": 1,
-    "isEnabled": true,
-    "thickGridTimes": 8
+    "x": 96,
+    "y": 564
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -48,7 +51,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -60,26 +63,12 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "E0B0086F-B668-413D-8308-E5AF050C9E43"
-    },
-    {
-      "class": "rectangle",
-      "id": "A969615C-64BB-4526-B4FF-7B6963BC2BC6"
+      "id": "F7A1AB10-ED3D-487D-85ED-AF4EE1D02F3A"
     }
   ],
-  "name": "01 操作类/更多/1",
+  "name": "order-fill",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "E0B0086F-B668-413D-8308-E5AF050C9E43_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "A969615C-64BB-4526-B4FF-7B6963BC2BC6_layerStyle"
-    }
   ],
   "presetDictionary": {
   },
@@ -122,7 +111,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4878AB42-EFFD-4CB2-B870-DEAAC72A3FFD",
+    "do_objectID": "0E5AF0BD-87E9-4B3F-9A61-D44F55EFCA95",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -134,7 +123,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D3C3429A-D7F2-4B45-B522-18924C1F208A",
+  "symbolID": "F69F0646-F1BD-4277-BE1C-5342731CAD73",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
