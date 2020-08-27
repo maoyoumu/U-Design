@@ -50,7 +50,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "3EAFC736-C1DC-4730-A4D0-7F8B00A439CB",
+  "sharedStyleID": "3F618762-7F54-413A-9995-F238A807C1AC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -94,9 +94,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4588235294117647,
-          "green": 0.3764705882352941,
-          "red": 0.3215686274509804
+          "blue": 0.2,
+          "green": 0.08627450980392154,
+          "red": 0.0392156862745098
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -135,10 +135,15 @@
           ],
           "to": "{0.5, 1}"
         },
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/d08c1da1c88ba69c0bea5c9bc165b7413eec1d1d.png",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 0,
+        "patternFillType": 1,
         "patternTileScale": 1
       }
     ],
