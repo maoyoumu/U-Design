@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "75F079D5-5E00-43F5-80A4-E390D91F881F",
-  "name": "⚠️ 原色（不要直接用）/01辅助色/04黄色/T_COLOR_LEGEND_YELLOW_6",
+  "name": "04辅助色/04黄色/T_COLOR_LEGEND_YELLOW_6",
   "value": {
     "_class": "style",
     "blur": {
@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "401E865B-C2BD-407A-8935-9AD16BDCD9E9",
+    "do_objectID": "B39021B7-D2FD-484E-8D06-CF3AF4B1C947",
     "endMarkerType": 0,
     "fills": [
       {
@@ -44,9 +44,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1450980392156863,
-          "green": 0.796078431372549,
-          "red": 0.9019607843137255
+          "blue": 0.09803921568627451,
+          "green": 0.7490196078431373,
+          "red": 1,
+          "swatchID": "4D8C4382-6FDC-4E22-93E3-4ABB4C71D5B8"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

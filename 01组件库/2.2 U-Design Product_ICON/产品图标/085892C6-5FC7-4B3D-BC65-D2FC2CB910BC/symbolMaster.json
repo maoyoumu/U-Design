@@ -4,12 +4,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.1404280737037159,
+    "green": 0.1404280737037159,
+    "red": 0.9049196105072463
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2340,
+  "changeIdentifier": 2388,
   "clippingMaskMode": 0,
   "do_objectID": "085892C6-5FC7-4B3D-BC65-D2FC2CB910BC",
   "exportOptions": {
@@ -63,17 +63,12 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "DDC9C54C-D4BA-407B-A148-D103A2415C2C"
+      "id": "6414237D-4CF1-4E9D-A2CB-DD62D8ACFBEA"
     }
   ],
   "name": "uapigateway",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "DDC9C54C-D4BA-407B-A148-D103A2415C2C_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

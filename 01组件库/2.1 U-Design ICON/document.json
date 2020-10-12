@@ -1,6 +1,5 @@
 {
   "_class": "document",
-  "agreedToFontEmbedding": false,
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
@@ -22,7 +21,6 @@
     "images": [
     ]
   },
-  "autoEmbedFonts": false,
   "colorSpace": 1,
   "do_objectID": "1B408FE5-1445-4091-8842-D5C591FBD21C",
   "fontReferences": [
@@ -259,6 +257,122 @@
       "remoteStyleID": "C72B3C70-C457-41EB-B69E-2FC0ED302421",
       "sourceLibraryName": "1.1 U-Design Style 🌕",
       "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "E3E1A4ED-2306-4431-AF99-4740AE1B695C",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "B5E3DE07-ED86-46BC-8688-0AD07396E987",
+        "name": "00通用场景/00文本颜色/01常规色/浅色文本(T_COLOR_TEXT_DEFAULT_LIGHT)",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "8E709E29-3330-4658-ABC9-46D94397ECAB",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4588235294117647,
+                "green": 0.3764705882352942,
+                "red": 0.3215686274509804
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "image": {
+                "_class": "MSJSONFileReference",
+                "_ref": "images/d08c1da1c88ba69c0bea5c9bc165b7413eec1d1d.png",
+                "_ref_class": "MSImageData"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "A65B700C-E175-4D1A-987F-5B1332E7251D",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
+      "symbolPrivate": false
     }
   ],
   "foreignSwatches": [
@@ -273,9 +387,9 @@
     ]
   },
   "meta": {
-    "appVersion": "67.2",
-    "build": 100443,
-    "version": 130
+    "appVersion": "68.1",
+    "build": 102560,
+    "version": 131
   },
   "pages": [
     "控件"

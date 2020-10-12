@@ -126,7 +126,8 @@
           "alpha": 1,
           "blue": 0.9686274509803922,
           "green": 0.9686274509803922,
-          "red": 0.9686274509803922
+          "red": 0.9686274509803922,
+          "swatchID": "C349AA61-9795-4DC6-B1EF-7937C05587C3"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -184,5 +185,26 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 90,
+            "enabled": 1,
+            "modelID": "constraint_b394df55-f4dc-4b4c-ab57-59a82d528773",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 90
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_996c6699-bf20-4e2b-8a22-8bc206e49d19",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
   }
 }

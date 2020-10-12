@@ -51,6 +51,10 @@
     {
       "class": "rectangle",
       "id": "1D8DAF5C-E993-4A04-A085-0C27466C703D"
+    },
+    {
+      "class": "rectangle",
+      "id": "E036DA64-D60C-4D7E-B868-9D2710C8B32A"
     }
   ],
   "name": "图例组备份 10",

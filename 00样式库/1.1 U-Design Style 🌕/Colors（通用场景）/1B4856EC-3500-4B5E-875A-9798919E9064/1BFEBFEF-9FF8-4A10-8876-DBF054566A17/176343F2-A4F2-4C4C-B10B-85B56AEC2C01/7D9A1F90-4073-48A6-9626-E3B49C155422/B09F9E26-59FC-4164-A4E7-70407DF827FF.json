@@ -80,7 +80,6 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "CBA8A608-409B-4FF1-A3FA-E9E239A8F427",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -126,7 +125,8 @@
           "alpha": 1,
           "blue": 0.5607843137254902,
           "green": 0.9490196078431372,
-          "red": 1
+          "red": 1,
+          "swatchID": "C50B0DD0-17F6-435C-80BF-F66DE949F61E"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

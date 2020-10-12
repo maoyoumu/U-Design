@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "AFFCFC2D-9430-476A-AD7E-F291F5562331",
-  "name": "⚠️ 原色（不要直接用）/01辅助色/02蓝色/T_COLOR_LEGEND_BLUE_2",
+  "name": "04辅助色/02蓝色/T_COLOR_LEGEND_BLUE_2",
   "value": {
     "_class": "style",
     "blur": {
@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C4758F16-4E46-490D-8B3E-56CA9528EFE0",
+    "do_objectID": "BFA60E74-ED9B-4BA7-BFAC-0EE5BDAABCDE",
     "endMarkerType": 0,
     "fills": [
       {
@@ -46,7 +46,8 @@
           "alpha": 1,
           "blue": 0.984313725490196,
           "green": 0.8509803921568627,
-          "red": 0.7137254901960784
+          "red": 0.7137254901960784,
+          "swatchID": "899B5111-28F8-4085-BCDD-9D52D216BF75"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

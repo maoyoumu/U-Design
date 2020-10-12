@@ -126,7 +126,8 @@
           "alpha": 1,
           "blue": 1,
           "green": 0.9137254901960784,
-          "red": 0.8901960784313725
+          "red": 0.8901960784313725,
+          "swatchID": "EC651E6A-8AF7-4CC5-92E6-D710020B35C2"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -164,11 +165,6 @@
             }
           ],
           "to": "{0.5, 1}"
-        },
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref": "images/d08c1da1c88ba69c0bea5c9bc165b7413eec1d1d.png",
-          "_ref_class": "MSImageData"
         },
         "isEnabled": true,
         "noiseIndex": 0,

@@ -11,7 +11,8 @@
             "alpha": 1,
             "blue": 0.09803921568627451,
             "green": 0.7490196078431373,
-            "red": 1
+            "red": 1,
+            "swatchID": "8F264E99-13F1-4B01-8A83-A6CF4D2584AE"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -125,7 +126,8 @@
           "alpha": 1,
           "blue": 0.09803921568627451,
           "green": 0.7490196078431373,
-          "red": 1
+          "red": 1,
+          "swatchID": "8F264E99-13F1-4B01-8A83-A6CF4D2584AE"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

@@ -27,9 +27,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8313725490196079,
-          "green": 0.8313725490196079,
-          "red": 0.996078431372549
+          "blue": 0.8313725490196078,
+          "green": 0.8313725490196078,
+          "red": 0.996078431372549,
+          "swatchID": "6ECF5C4B-0E6C-464C-ACE9-BF6ED1CA7107"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -86,7 +87,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "57ADFB8B-7FDD-4703-8E9B-53DF334BCD44",
+    "do_objectID": "B23321E2-5DAD-4BD3-9717-843176959D9B",
     "endMarkerType": 0,
     "fills": [
     ],

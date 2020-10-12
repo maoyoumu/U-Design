@@ -1,0 +1,103 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5028E6C1-A971-4D61-A856-9F6F7B9476AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 245,
+    "x": 0,
+    "y": 260
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Table（表格）/纯文本",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E280A5DC-5FAA-4178-A398-193D2AC3C1B5/11E8B976-B0D7-4B04-B982-16C3A8570BE2_stringValue",
+      "value": "(外) 106.24.230.192 BGP"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "45BC4087-A30F-476D-96F0-0A5E009A2F6F_stringValue",
+      "value": "(内) 10.24.13.4"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E280A5DC-5FAA-4178-A398-193D2AC3C1B5/11E8B976-B0D7-4B04-B982-16C3A8570BE2_textStyle",
+      "value": "51A1BEE7-ECF6-467E-B899-0397B8D3F1E2[560A802F-45FA-485E-AAC7-CA55159AC659]"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "45C1807D-3618-4F77-9152-1FF3CC151428",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FFD9E842-676A-4C04-8B35-F11C36E25F35",
+  "verticalSpacing": 0
+}
