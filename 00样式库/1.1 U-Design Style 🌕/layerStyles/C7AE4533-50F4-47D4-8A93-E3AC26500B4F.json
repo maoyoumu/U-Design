@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "C7AE4533-50F4-47D4-8A93-E3AC26500B4F",
-  "name": "⚠️ 原色（不要直接用）/01辅助色/00紫色/T_COLOR_LEGEND_PURPLE_8",
+  "name": "04辅助色/00紫色/T_COLOR_LEGEND_PURPLE_8",
   "value": {
     "_class": "style",
     "blur": {
@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "3F4E71F3-D99C-49FD-A605-18E4659598D9",
+    "do_objectID": "ADDC8D30-2D90-4DE9-844A-284942CC56C6",
     "endMarkerType": 0,
     "fills": [
       {
@@ -46,7 +46,8 @@
           "alpha": 1,
           "blue": 0.3764705882352941,
           "green": 0.1764705882352941,
-          "red": 0.2705882352941176
+          "red": 0.2705882352941176,
+          "swatchID": "4210E23B-E17C-4BE8-8F4D-3F5A4F4BCB41"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

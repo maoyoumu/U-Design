@@ -29,7 +29,8 @@
           "alpha": 0,
           "blue": 1,
           "green": 1,
-          "red": 1
+          "red": 1,
+          "swatchID": "A76822D2-87B8-42A1-BD5D-BE1CDB5D3C3A"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -86,7 +87,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A6738CF7-83DB-4CAA-ABD1-13C01466A558",
+    "do_objectID": "9F981704-9B53-4113-A925-789B13EE2ACC",
     "endMarkerType": 0,
     "fills": [
     ],

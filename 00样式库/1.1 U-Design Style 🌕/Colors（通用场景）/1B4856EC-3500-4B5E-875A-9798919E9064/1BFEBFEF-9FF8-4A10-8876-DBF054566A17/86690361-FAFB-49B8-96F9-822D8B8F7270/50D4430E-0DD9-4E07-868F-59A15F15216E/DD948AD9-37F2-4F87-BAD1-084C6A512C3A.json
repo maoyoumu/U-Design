@@ -80,7 +80,6 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "6B889B73-5982-4768-B07B-1052F5FDC27C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -126,7 +125,8 @@
           "alpha": 1,
           "blue": 0.392156862745098,
           "green": 0.8509803921568627,
-          "red": 0.2980392156862745
+          "red": 0.2980392156862745,
+          "swatchID": "9665561C-52B9-4919-8A88-409432E17069"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -184,5 +184,26 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 90,
+            "enabled": 1,
+            "modelID": "constraint_43d3dd9e-6ee5-469e-a5bc-f87416389f11",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 90
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_97763a98-7734-47ba-9991-56aea85d5dda",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
   }
 }

@@ -41,6 +41,10 @@
   "layers": [
     {
       "class": "artboard",
+      "id": "C773A6CF-BA5F-451B-B89D-D7517DA707D6"
+    },
+    {
+      "class": "artboard",
       "id": "194B4227-87D1-40E6-BEAA-2F6D45738EF7"
     },
     {
@@ -139,6 +143,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

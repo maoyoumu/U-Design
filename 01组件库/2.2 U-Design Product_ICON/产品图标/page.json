@@ -217,6 +217,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "FEE14BF5-4426-42E5-A76A-2E3F315E22CC"
+    },
+    {
+      "class": "symbolMaster",
       "id": "A5635AB3-6346-4264-8036-DF627D710FF0"
     },
     {
@@ -370,6 +374,10 @@
     {
       "class": "symbolMaster",
       "id": "EEF67915-6FDA-49E6-9A8D-2B33BB5B6CA0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5DC2AA63-791C-4DEA-9E27-13180F4CAE8D"
     }
   ],
   "name": "产品图标",

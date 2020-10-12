@@ -16,6 +16,35 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
+              "name": "AppleColorEmoji",
+              "size": 16
+            }
+          },
+          "kerning": 0.355555657142857,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          },
+          "textStyleVerticalAlignmentKey": 1
+        },
+        "length": 2,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
               "name": "PingFangSC-Semibold",
               "size": 16
             }
@@ -29,11 +58,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 7,
-        "location": 0
+        "length": 17,
+        "location": 2
       }
     ],
-    "string": "主按钮文本颜色"
+    "string": "⚠️为了适配多主题情况-主按钮文本颜色"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +82,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 115,
+    "width": 294,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 4}, {114, 16}}",
+  "glyphBounds": "{{0, 3}, {292, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,8 +94,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "主按钮文本颜色",
+  "lineSpacingBehaviour": 3,
+  "name": "⚠️为了适配多主题情况-主按钮文本颜色",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -129,7 +158,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PingFangSC-Semibold",
+            "name": "AppleColorEmoji",
             "size": 16
           }
         },

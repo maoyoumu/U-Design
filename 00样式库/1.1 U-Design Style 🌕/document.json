@@ -1,6 +1,5 @@
 {
   "_class": "document",
-  "agreedToFontEmbedding": false,
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
@@ -22,20 +21,22 @@
     "images": [
     ]
   },
-  "autoEmbedFonts": false,
   "colorSpace": 1,
   "do_objectID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+  "documentState": {
+    "_class": "documentState"
+  },
   "fontReferences": [
   ],
   "foreignLayerStyles": [
     {
       "_class": "MSImmutableForeignLayerStyle",
-      "do_objectID": "B158DB45-EC3B-4877-AA2E-697D7673920D",
-      "libraryID": "93D3A9EE-5891-41A9-8062-2071D4CD0EA2",
+      "do_objectID": "987DC894-FC67-4E47-900A-A174E2041A66",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
       "localSharedStyle": {
         "_class": "sharedStyle",
-        "do_objectID": "9200C8BB-104D-4890-AA24-C1C375B8E1BA",
-        "name": "色卡/00常规色/01品牌色/品牌色6",
+        "do_objectID": "161F7791-B391-473E-9E86-0ADED12EA409",
+        "name": "00通用场景/01背景/01透明(T_COLOR_BG_TRANSPARENT)",
         "value": {
           "_class": "style",
           "blur": {
@@ -70,17 +71,18 @@
             "blendMode": 0,
             "opacity": 1
           },
-          "do_objectID": "F6827386-B854-4756-B3B7-74F2EBEEA818",
+          "do_objectID": "063BFD97-0984-485B-9C4A-40234CB4C5F9",
           "endMarkerType": 0,
           "fills": [
             {
               "_class": "fill",
               "color": {
                 "_class": "color",
-                "alpha": 1,
-                "blue": 0.9882352941176471,
-                "green": 0.5333333333333333,
-                "red": 0.392156862745098
+                "alpha": 0,
+                "blue": 1,
+                "green": 1,
+                "red": 1,
+                "swatchID": "AA94C80A-F04C-46F4-B989-C9F65B086308"
               },
               "contextSettings": {
                 "_class": "graphicsContextSettings",
@@ -135,12 +137,164 @@
           "windingRule": 1
         }
       },
-      "remoteStyleID": "DF33B6A1-A739-4759-A6B9-597E5FF5ADA5",
-      "sourceLibraryName": "3.1 U-Design Library 🌕",
+      "remoteStyleID": "C72B3C70-C457-41EB-B69E-2FC0ED302421",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "7659D4F9-E231-43F2-893D-0C7E1A1DCF75",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "741A1AD1-B9F2-487A-BADB-2EE48AF0F807",
+        "name": "00通用场景/00文本颜色/01常规色/深色文本(T_COLOR_TEXT_DEFAULT_DARK)",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "20D6A915-26B7-45E2-A621-BF098FA0E802",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2,
+                "green": 0.08627450980392158,
+                "red": 0.0392156862745098,
+                "swatchID": "02A3425A-B15C-4299-BFAC-54AF92C4EA4A"
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "C9EB8CC6-AA83-4772-9B35-4F442C34E400",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
       "symbolPrivate": false
     }
   ],
   "foreignSwatches": [
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "9D5D9BE8-50F1-4F77-A1E7-47630A6FE39E",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "02A3425A-B15C-4299-BFAC-54AF92C4EA4A",
+        "name": "00常规色/00内置色/黑色",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2,
+          "green": 0.08627450980392158,
+          "red": 0.0392156862745098
+        }
+      },
+      "remoteSwatchID": "519E2721-4E9B-4878-90E4-87F6CF55BE76",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "7CD40E22-1A01-48E9-9502-D0A29337EE29",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "AA94C80A-F04C-46F4-B989-C9F65B086308",
+        "name": "00常规色/00内置色/透明色",
+        "value": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      },
+      "remoteSwatchID": "A76822D2-87B8-42A1-BD5D-BE1CDB5D3C3A",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
+      "symbolPrivate": false
+    }
   ],
   "foreignSymbols": [
   ],
@@ -148,19 +302,22 @@
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
+    "do_objectID": "C0EB0833-135A-468D-9E3E-9D19BCA492A9",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "67.2",
-    "build": 100443,
-    "version": 130
+    "appVersion": "69",
+    "build": 107357,
+    "version": 134
   },
   "pages": [
     "Brand（原色）",
     "Colors（通用场景）",
     "Shadow（阴影）",
+    "辅助色",
     "Typography （所有字符）",
+    " ",
     "组件应用",
     "Frame （导航）",
     "Buttons（按钮）",
@@ -173,7 +330,1112 @@
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
+    "do_objectID": "D6E70C33-135A-468D-9E3E-9D19BCA49CA5",
     "objects": [
+      {
+        "_class": "swatch",
+        "do_objectID": "E85D0B12-E5F6-418C-8572-049F37BE7FF4",
+        "name": "00常规色/00内置色/白色",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "519E2721-4E9B-4878-90E4-87F6CF55BE76",
+        "name": "00常规色/00内置色/黑色",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2,
+          "green": 0.08627450980392158,
+          "red": 0.0392156862745098
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "A76822D2-87B8-42A1-BD5D-BE1CDB5D3C3A",
+        "name": "00常规色/00内置色/透明色",
+        "value": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "8D59A12C-CDA2-4130-83A8-6F24E7B3CF68",
+        "name": "00常规色/01品牌色/品牌色1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.9725490196078431,
+          "red": 0.9725490196078431
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "8EA27CEE-B019-4AF3-83D5-4E2A58E4E361",
+        "name": "00常规色/01品牌色/品牌色2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9921568627450981,
+          "green": 0.9333333333333333,
+          "red": 0.9176470588235294
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "EC651E6A-8AF7-4CC5-92E6-D710020B35C2",
+        "name": "00常规色/01品牌色/品牌色3",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.9137254901960784,
+          "red": 0.8901960784313725
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "DBA56442-FDF7-434F-B6D1-993AD38DE58D",
+        "name": "00常规色/01品牌色/品牌色6",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9882352941176471,
+          "green": 0.5333333333333333,
+          "red": 0.392156862745098
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "DEF327A1-3F31-4ED3-99B6-1FC2CA5338E3",
+        "name": "00常规色/01品牌色/品牌色7",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9098039215686274,
+          "green": 0.4627450980392157,
+          "red": 0.3607843137254902
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "970633C8-2C78-4B8B-A776-BC7382695AD5",
+        "name": "00常规色/01品牌色/品牌色8",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9568627450980391,
+          "green": 0.3764705882352941,
+          "red": 0.2196078431372549
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "8805A2E5-A7A4-44F6-A020-A288B493A152",
+        "name": "00常规色/01品牌色/品牌色9",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8745098039215686,
+          "green": 0.3411764705882353,
+          "red": 0.2
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "FAD23CEA-3AC0-4FCE-BFD0-57FAF009F123",
+        "name": "00常规色/02中立色/灰1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9882352941176471,
+          "green": 0.9803921568627451,
+          "red": 0.9803921568627451
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E6BB9934-74D1-46EC-919D-3889D0EED027",
+        "name": "00常规色/02中立色/灰2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.984313725490196,
+          "green": 0.9647058823529412,
+          "red": 0.9647058823529412
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "7C468B2A-4FD4-4E1A-90D4-50ED05E91E91",
+        "name": "00常规色/02中立色/灰3",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9725490196078431,
+          "green": 0.9372549019607843,
+          "red": 0.9372549019607843
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "443741C7-C001-4C14-A999-E085C5E4D0AC",
+        "name": "00常规色/02中立色/灰4",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9450980392156862,
+          "green": 0.8784313725490196,
+          "red": 0.8745098039215686
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F3AB3C4F-BCDB-442D-A22A-177739EA0452",
+        "name": "00常规色/02中立色/灰5",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9176470588235294,
+          "green": 0.8392156862745098,
+          "red": 0.8235294117647058
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "77A51E8D-735A-4E92-ACC7-A0319AE08A7E",
+        "name": "00常规色/02中立色/灰7",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8509803921568627,
+          "green": 0.792156862745098,
+          "red": 0.7647058823529411
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E929C7D4-B330-4BC0-BA21-C49BA5761F97",
+        "name": "00常规色/02中立色/灰8",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6666666666666666,
+          "green": 0.5450980392156862,
+          "red": 0.4784313725490196
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "010057D0-9C02-43A9-A516-DC975D0D6C1B",
+        "name": "00常规色/02中立色/灰9",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4588235294117647,
+          "green": 0.3764705882352941,
+          "red": 0.3215686274509804
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F577DB27-F9D0-4C9E-9D23-A76FD7338C38",
+        "name": "00常规色/04功能色/00提示/提示1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9882352941176471,
+          "green": 0.9803921568627451,
+          "red": 0.9803921568627451
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "1950D746-5300-493D-8B9A-449D49ACDBC8",
+        "name": "00常规色/04功能色/00提示/提示2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9176470588235294,
+          "green": 0.8392156862745098,
+          "red": 0.8235294117647058
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "4C458E5C-7779-4FDB-AEE3-E06439499BF9",
+        "name": "00常规色/04功能色/00提示/提示3",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4588235294117647,
+          "green": 0.3764705882352941,
+          "red": 0.3215686274509804
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "B58EF180-52DC-4F0E-9620-34D9124BA0D3",
+        "name": "00常规色/04功能色/01正确/正确1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9490196078431372,
+          "green": 1,
+          "red": 0.9294117647058824
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "0AE046D7-B417-4D04-92B1-C49ABC339EAC",
+        "name": "00常规色/04功能色/01正确/正确2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6470588235294118,
+          "green": 1,
+          "red": 0.6196078431372549
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "9665561C-52B9-4919-8A88-409432E17069",
+        "name": "00常规色/04功能色/01正确/正确3",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.392156862745098,
+          "green": 0.8509803921568627,
+          "red": 0.2980392156862745
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "016AB67A-3CDA-43F8-AC06-CC7C46A7435C",
+        "name": "00常规色/04功能色/02警告/警告1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8980392156862745,
+          "green": 0.9882352941176471,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "C50B0DD0-17F6-435C-80BF-F66DE949F61E",
+        "name": "00常规色/04功能色/02警告/警告2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5607843137254902,
+          "green": 0.9490196078431372,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "8F264E99-13F1-4B01-8A83-A6CF4D2584AE",
+        "name": "00常规色/04功能色/02警告/警告3",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.09803921568627451,
+          "green": 0.7490196078431373,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "4190CF0B-7773-4EB7-9DD9-3C2D3505EC05",
+        "name": "00常规色/04功能色/03错误/错误1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9411764705882353,
+          "green": 0.9411764705882353,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "6ECF5C4B-0E6C-464C-ACE9-BF6ED1CA7107",
+        "name": "00常规色/04功能色/03错误/错误2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8313725490196078,
+          "green": 0.8313725490196078,
+          "red": 0.996078431372549
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E5BB4EA4-BD7F-4B21-A539-A5914CB63FDA",
+        "name": "00常规色/04功能色/03错误/错误3",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2117647058823529,
+          "green": 0.2627450980392157,
+          "red": 0.9568627450980391
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "C349AA61-9795-4DC6-B1EF-7937C05587C3",
+        "name": "00常规色/04功能色/04禁用/禁用1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9686274509803922,
+          "green": 0.9686274509803922,
+          "red": 0.9686274509803922
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "A6516495-7C19-4E41-B7C7-C935A3383A1D",
+        "name": "00常规色/04功能色/04禁用/禁用2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8509803921568627,
+          "green": 0.8509803921568627,
+          "red": 0.8509803921568627
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "2DBD791B-4485-492C-AF50-F4B4F8D91C8A",
+        "name": "00常规色/04功能色/04禁用/禁用3",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.8
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "6EBFA6E6-5563-40F0-925F-0206019E94E9",
+        "name": "00常规色/05系统色/白色(T_COLOR_BRAND_SYSTEM_WHITE)",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "7E942553-95BB-4527-B7C1-C1485AD0E31B",
+        "name": "00常规色/05系统色/黑色(T_COLOR_BRAND_SYSTEM_BLACK)",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "8C75F88E-7165-442B-AADA-D619F6BDA86A",
+        "name": "00常规色/05系统色/黑色_30（T_COLOR_BRAND_SYSTEM_BLACK_TRANSPARENT_30）",
+        "value": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "2027334F-21D6-4347-93F3-779D224501F4",
+        "name": "00常规色/00内置色/黑色_20",
+        "value": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0.2,
+          "green": 0.08627450980392158,
+          "red": 0.0392156862745098
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F6CED0A5-B1D4-45EC-A15C-6FDE139BFAC8",
+        "name": "01辅助色/00紫色/T_COLOR_LEGEND_PURPLE_1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9921568627450981,
+          "green": 0.9450980392156862,
+          "red": 0.9686274509803922
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "085BAD1E-CF17-4E33-98C2-D6B438810996",
+        "name": "01辅助色/00紫色/T_COLOR_LEGEND_PURPLE_2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9764705882352941,
+          "green": 0.7764705882352941,
+          "red": 0.8705882352941177
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "B40718E2-59DB-4B56-A40D-B64DA99541C4",
+        "name": "01辅助色/00紫色/T_COLOR_LEGEND_PURPLE_3",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9607843137254902,
+          "green": 0.6666666666666666,
+          "red": 0.803921568627451
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "2395867C-4E3D-44B7-AFB4-F7CE23A362AE",
+        "name": "01辅助色/00紫色/T_COLOR_LEGEND_PURPLE_4",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9490196078431372,
+          "green": 0.5529411764705883,
+          "red": 0.7411764705882353
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E7818D0B-A0E2-4ADF-ABBD-DD8A4F55273F",
+        "name": "01辅助色/00紫色/T_COLOR_LEGEND_PURPLE_5",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9372549019607843,
+          "green": 0.4431372549019608,
+          "red": 0.6745098039215687
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "47A84FDB-FAA5-4F53-A8EC-67009F74621A",
+        "name": "01辅助色/00紫色/T_COLOR_LEGEND_PURPLE_6",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8431372549019608,
+          "green": 0.4,
+          "red": 0.6078431372549019
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "8FACA750-7520-47A8-A9DB-42D0B1604AFD",
+        "name": "01辅助色/00紫色/T_COLOR_LEGEND_PURPLE_7",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6549019607843137,
+          "green": 0.3098039215686275,
+          "red": 0.4705882352941176
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "4210E23B-E17C-4BE8-8F4D-3F5A4F4BCB41",
+        "name": "01辅助色/00紫色/T_COLOR_LEGEND_PURPLE_8",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3764705882352941,
+          "green": 0.1764705882352941,
+          "red": 0.2705882352941176
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "B9298D83-9402-4452-97D9-A5B490AD5B5A",
+        "name": "01辅助色/00紫色/T_COLOR_LEGEND_PURPLE_9",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1882352941176471,
+          "green": 0.09019607843137253,
+          "red": 0.1333333333333333
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "2E5C9F49-B991-4441-82A7-9B685513EC81",
+        "name": "01辅助色/01浅蓝色/T_COLOR_LEGEND_LIGHTBLUE_1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.9803921568627451,
+          "red": 0.9176470588235294
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "CDBACB71-9B16-4542-96DF-9EEB2A79005B",
+        "name": "01辅助色/01浅蓝色/T_COLOR_LEGEND_LIGHTBLUE_2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.9215686274509803,
+          "red": 0.6705882352941176
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "573A7FFD-DC41-4EF5-9C90-274CCEC4E773",
+        "name": "01辅助色/01浅蓝色/T_COLOR_LEGEND_LIGHTBLUE_3",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.8862745098039215,
+          "red": 0.5098039215686274
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "5291109E-6A7C-49F8-AE02-7C7B54C221C2",
+        "name": "01辅助色/01浅蓝色/T_COLOR_LEGEND_LIGHTBLUE_4",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.8470588235294118,
+          "red": 0.3450980392156863
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "02512B20-4E5E-47A1-A8CC-C2F33EEAD1C3",
+        "name": "01辅助色/01浅蓝色/T_COLOR_LEGEND_LIGHTBLUE_5",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.807843137254902,
+          "red": 0.1803921568627451
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "3544FCF8-BF92-48AC-A4EA-D64E58AFDEF7",
+        "name": "01辅助色/01浅蓝色/T_COLOR_LEGEND_LIGHTBLUE_6",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9019607843137255,
+          "green": 0.7254901960784313,
+          "red": 0.1607843137254902
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "8E8356C6-BAE3-4E41-BA11-3FEEE497156C",
+        "name": "01辅助色/01浅蓝色/T_COLOR_LEGEND_LIGHTBLUE_7",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7019607843137254,
+          "green": 0.5647058823529412,
+          "red": 0.1254901960784314
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "C4C3E421-64DD-4686-9F94-96D4F53C76F0",
+        "name": "01辅助色/01浅蓝色/T_COLOR_LEGEND_LIGHTBLUE_8",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4,
+          "green": 0.3215686274509804,
+          "red": 0.07058823529411765
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "9623AA21-51F4-4ED4-AAC4-87E9CB4D271D",
+        "name": "01辅助色/01浅蓝色/T_COLOR_LEGEND_LIGHTBLUE_9",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2,
+          "green": 0.1607843137254902,
+          "red": 0.03529411764705882
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "DE9BF3F2-7C11-44DC-978F-0CB15C3F44F6",
+        "name": "01辅助色/02蓝色/T_COLOR_LEGEND_BLUE_1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.996078431372549,
+          "green": 0.9607843137254902,
+          "red": 0.9294117647058824
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "899B5111-28F8-4085-BCDD-9D52D216BF75",
+        "name": "01辅助色/02蓝色/T_COLOR_LEGEND_BLUE_2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.984313725490196,
+          "green": 0.8509803921568627,
+          "red": 0.7137254901960784
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "921D06B9-4FC1-4A65-959C-4ABBCD6581DC",
+        "name": "01辅助色/02蓝色/T_COLOR_LEGEND_BLUE_3",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9764705882352941,
+          "green": 0.7725490196078432,
+          "red": 0.5725490196078431
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "FB4B698D-7607-4C65-B665-40C2531DFB0E",
+        "name": "01辅助色/02蓝色/T_COLOR_LEGEND_BLUE_4",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9686274509803922,
+          "green": 0.6980392156862745,
+          "red": 0.4274509803921568
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "B6485176-A862-4647-B918-658F723C8A22",
+        "name": "01辅助色/02蓝色/T_COLOR_LEGEND_BLUE_5",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9607843137254902,
+          "green": 0.6235294117647059,
+          "red": 0.2862745098039216
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "86453B85-A616-4BB6-BA03-7DFBC1448E0F",
+        "name": "01辅助色/02蓝色/T_COLOR_LEGEND_BLUE_6",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8666666666666667,
+          "green": 0.5607843137254902,
+          "red": 0.2588235294117647
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "87F7CD13-BE05-4809-9F7B-33B92234F154",
+        "name": "01辅助色/02蓝色/T_COLOR_LEGEND_BLUE_7",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6745098039215687,
+          "green": 0.4352941176470588,
+          "red": 0.2
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "11308E47-1040-49A0-9B2E-E8AD81F3A9AB",
+        "name": "01辅助色/02蓝色/T_COLOR_LEGEND_BLUE_8",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.384313725490196,
+          "green": 0.2509803921568627,
+          "red": 0.1137254901960784
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "D39D7F8D-8117-44AB-AA56-62D492B94B90",
+        "name": "01辅助色/02蓝色/T_COLOR_LEGEND_BLUE_9",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.192156862745098,
+          "green": 0.1254901960784314,
+          "red": 0.05882352941176471
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "9A07A75E-A7B5-4961-9FE4-E788924ADF2D",
+        "name": "01辅助色/03橙色/T_COLOR_LEGEND_ORANGE_1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9411764705882353,
+          "green": 0.9568627450980391,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "030B5559-EB29-482C-8DB8-F430A7415A29",
+        "name": "01辅助色/03橙色/T_COLOR_LEGEND_ORANGE_2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7647058823529411,
+          "green": 0.8313725490196078,
+          "red": 0.996078431372549
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "5CF72F4A-B0AA-4D13-B6B9-07BABAB247E1",
+        "name": "01辅助色/03橙色/T_COLOR_LEGEND_ORANGE_3",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6509803921568628,
+          "green": 0.7490196078431373,
+          "red": 0.9921568627450981
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "8AEA2B27-4616-4F28-990B-C2304418D85A",
+        "name": "01辅助色/03橙色/T_COLOR_LEGEND_ORANGE_4",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5333333333333333,
+          "green": 0.6627450980392157,
+          "red": 0.9921568627450981
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "5EB1A0ED-D914-46E6-A9D4-1D1734A9C232",
+        "name": "01辅助色/03橙色/T_COLOR_LEGEND_ORANGE_5",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4156862745098039,
+          "green": 0.580392156862745,
+          "red": 0.9882352941176471
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "B94F6AC2-BC38-4841-A785-AC44E8ADFDBD",
+        "name": "01辅助色/03橙色/T_COLOR_LEGEND_ORANGE_6",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3725490196078431,
+          "green": 0.5215686274509804,
+          "red": 0.8901960784313725
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "B9B36208-54D9-4EFB-A0D7-0EA5B2C2D94C",
+        "name": "01辅助色/03橙色/T_COLOR_LEGEND_ORANGE_7",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2901960784313725,
+          "green": 0.407843137254902,
+          "red": 0.6901960784313725
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "2B30A5E6-587E-45C9-9A65-76206D04E8CF",
+        "name": "01辅助色/03橙色/T_COLOR_LEGEND_ORANGE_8",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1647058823529412,
+          "green": 0.2313725490196079,
+          "red": 0.396078431372549
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "451DC170-1495-4183-BBA1-194D9BE37700",
+        "name": "01辅助色/03橙色/T_COLOR_LEGEND_ORANGE_9",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.0823529411764706,
+          "green": 0.1176470588235294,
+          "red": 0.196078431372549
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E4F116E7-613C-4ECD-B89D-4287D4277EB6",
+        "name": "01辅助色/04黄色/T_COLOR_LEGEND_YELLOW_1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9019607843137255,
+          "green": 0.9882352941176471,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "49D61A0B-22A3-486C-B00C-80B3911E14C7",
+        "name": "01辅助色/04黄色/T_COLOR_LEGEND_YELLOW_2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7411764705882353,
+          "green": 0.9607843137254902,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "236735A2-387E-4E90-8F35-E1911CC91136",
+        "name": "01辅助色/04黄色/T_COLOR_LEGEND_YELLOW_3",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5529411764705883,
+          "green": 0.8901960784313725,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "DDEB4FBA-6FE1-4E11-85D0-356EEE469C1D",
+        "name": "01辅助色/04黄色/T_COLOR_LEGEND_YELLOW_4",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3803921568627451,
+          "green": 0.8431372549019608,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "994BC528-2EEA-404F-B41A-8ACED54049C0",
+        "name": "01辅助色/04黄色/T_COLOR_LEGEND_YELLOW_5",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2588235294117647,
+          "green": 0.8156862745098039,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "4D8C4382-6FDC-4E22-93E3-4ABB4C71D5B8",
+        "name": "01辅助色/04黄色/T_COLOR_LEGEND_YELLOW_6",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.09803921568627451,
+          "green": 0.7490196078431373,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F04BF764-57A9-44C7-9C8C-EB351D4A61AF",
+        "name": "01辅助色/04黄色/T_COLOR_LEGEND_YELLOW_7",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.04313725490196078,
+          "green": 0.596078431372549,
+          "red": 0.8509803921568627
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F693C972-9462-4D9E-8388-DE7FE4783112",
+        "name": "01辅助色/04黄色/T_COLOR_LEGEND_YELLOW_8",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.4549019607843137,
+          "red": 0.7019607843137254
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F56DBBD8-548F-4393-A10E-AF746A905A81",
+        "name": "01辅助色/04黄色/T_COLOR_LEGEND_YELLOW_9",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.06666666666666667,
+          "green": 0.2666666666666667,
+          "red": 0.3294117647058823
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "5C88DD67-B8C5-4F75-B984-C2E94462EB5C",
+        "name": "01辅助色/05青色/T_COLOR_LEGEND_CYAN_1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9803921568627451,
+          "green": 0.996078431372549,
+          "red": 0.9058823529411765
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "920D962E-7ACE-419D-A544-8457C164875F",
+        "name": "01辅助色/05青色/T_COLOR_LEGEND_CYAN_2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9215686274509803,
+          "green": 0.984313725490196,
+          "red": 0.615686274509804
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F45D2E7F-56FB-4A26-BFEE-69B6B65D24AD",
+        "name": "01辅助色/05青色/T_COLOR_LEGEND_CYAN_3",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8862745098039215,
+          "green": 0.9764705882352941,
+          "red": 0.4235294117647059
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "03E62572-28CA-46A8-94CF-6EA748419F88",
+        "name": "01辅助色/05青色/T_COLOR_LEGEND_CYAN_4",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8470588235294118,
+          "green": 0.9686274509803922,
+          "red": 0.2313725490196079
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "A69FB8E5-D272-4D64-9B82-2E1CD5484147",
+        "name": "01辅助色/05青色/T_COLOR_LEGEND_CYAN_5",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.807843137254902,
+          "green": 0.9607843137254902,
+          "red": 0.0392156862745098
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "CACEEBD0-785D-4806-B51C-F4222BBAF5A2",
+        "name": "01辅助色/05青色/T_COLOR_LEGEND_CYAN_6",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7254901960784313,
+          "green": 0.8666666666666667,
+          "red": 0.03529411764705882
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "31D00E61-9F7C-463A-8DF7-593E1258CD94",
+        "name": "01辅助色/05青色/T_COLOR_LEGEND_CYAN_7",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5647058823529412,
+          "green": 0.6745098039215687,
+          "red": 0.02745098039215686
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "BCFBC1B1-4509-4D13-9D0B-682649C3182C",
+        "name": "01辅助色/05青色/T_COLOR_LEGEND_CYAN_8",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3215686274509804,
+          "green": 0.384313725490196,
+          "red": 0.01568627450980392
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "9E297BC9-F700-4D90-885A-9550A4BE4800",
+        "name": "01辅助色/05青色/T_COLOR_LEGEND_CYAN_9",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1607843137254902,
+          "green": 0.192156862745098,
+          "red": 0.007843137254901959
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "62E17D83-3778-46E6-BDC2-75CBAAC9A637",
+        "name": "00常规色/05系统色/黑色_70(T_COLOR_BRAND_SYSTEM_BLACK_TRANSPARENT_70)",
+        "value": {
+          "_class": "color",
+          "alpha": 0.7,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        }
+      }
     ]
   },
   "userInfo": {

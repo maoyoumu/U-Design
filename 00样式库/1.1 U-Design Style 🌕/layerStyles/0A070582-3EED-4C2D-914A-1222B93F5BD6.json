@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "0A070582-3EED-4C2D-914A-1222B93F5BD6",
-  "name": "组件应用/进度条/背景",
+  "name": "组件应用/进度条/背景（T_PROGRESS_COLOR_BG_DEFAULT）",
   "value": {
     "_class": "style",
     "blur": {
@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "CE59EDC3-E748-4049-B2D4-FB2BAB421ABA",
+    "do_objectID": "4E85A109-048A-4445-B247-1403CAE21642",
     "endMarkerType": 0,
     "fills": [
       {
@@ -46,7 +46,8 @@
           "alpha": 1,
           "blue": 0.9450980392156862,
           "green": 0.8784313725490196,
-          "red": 0.8745098039215686
+          "red": 0.8745098039215686,
+          "swatchID": "443741C7-C001-4C14-A999-E085C5E4D0AC"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

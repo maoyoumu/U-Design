@@ -80,7 +80,6 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "586B10ED-F9DC-4D60-A201-1FCC2FD7640C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -126,7 +125,8 @@
           "alpha": 1,
           "blue": 0.9215686274509803,
           "green": 0.984313725490196,
-          "red": 0.615686274509804
+          "red": 0.615686274509804,
+          "swatchID": "920D962E-7ACE-419D-A544-8457C164875F"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -184,5 +184,32 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 120,
+            "enabled": 1,
+            "modelID": "constraint_5332847f-9280-4108-a2ee-9ea5f809d008",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 120
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_e540797b-62d7-428e-83c2-c2d3e7625f8b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    },
+    "com.sketch.detach": {
+      "sharedStyle": {
+        "sharedStyleId": "586B10ED-F9DC-4D60-A201-1FCC2FD7640C",
+        "sharedStyleName": "04辅助色/05青色/T_COLOR_LEGEND_CYAN_2"
+      }
+    }
   }
 }

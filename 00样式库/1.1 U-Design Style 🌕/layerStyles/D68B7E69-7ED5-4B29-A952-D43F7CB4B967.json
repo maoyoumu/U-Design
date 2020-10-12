@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "02A4C40E-D9B4-4A73-B0D5-06719512E32E",
+    "do_objectID": "6FABD996-FDD5-4EAC-A193-E121FE9281FF",
     "endMarkerType": 0,
     "fills": [
       {
@@ -46,7 +46,8 @@
           "alpha": 1,
           "blue": 0.9450980392156862,
           "green": 0.8784313725490196,
-          "red": 0.8745098039215686
+          "red": 0.8745098039215686,
+          "swatchID": "443741C7-C001-4C14-A999-E085C5E4D0AC"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -85,10 +86,15 @@
           ],
           "to": "{0.5, 1}"
         },
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/d08c1da1c88ba69c0bea5c9bc165b7413eec1d1d.png",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 0,
+        "patternFillType": 1,
         "patternTileScale": 1
       }
     ],

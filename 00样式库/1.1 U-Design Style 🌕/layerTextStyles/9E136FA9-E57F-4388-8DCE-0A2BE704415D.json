@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F7084978-41E0-4C98-9E8F-F763DE455F96",
+    "do_objectID": "2D5DE89A-55D5-4A9B-8062-A4D772FF5FB5",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -53,8 +53,9 @@
           "_class": "color",
           "alpha": 0.2,
           "blue": 0.2,
-          "green": 0.08627450980392157,
-          "red": 0.0392156862745098
+          "green": 0.08627450980392158,
+          "red": 0.0392156862745098,
+          "swatchID": "2027334F-21D6-4347-93F3-779D224501F4"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

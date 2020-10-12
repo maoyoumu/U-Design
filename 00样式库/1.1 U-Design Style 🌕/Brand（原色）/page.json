@@ -50,6 +50,10 @@
     {
       "class": "artboard",
       "id": "1DA7CDD0-F44F-47A5-8B03-C06D30C29C8C"
+    },
+    {
+      "class": "artboard",
+      "id": "E89060D0-3D01-4865-A6BE-68B4578101BD"
     }
   ],
   "name": "Brand（原色）",
@@ -103,6 +107,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

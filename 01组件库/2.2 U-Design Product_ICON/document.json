@@ -1,6 +1,5 @@
 {
   "_class": "document",
-  "agreedToFontEmbedding": false,
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
@@ -22,7 +21,6 @@
     "images": [
     ]
   },
-  "autoEmbedFonts": false,
   "colorSpace": 0,
   "do_objectID": "f7207f41-afcd-11ea-bb79-cbe0d5b9f470",
   "fontReferences": [
@@ -157,9 +155,9 @@
     ]
   },
   "meta": {
-    "appVersion": "67.2",
-    "build": 100443,
-    "version": 130
+    "appVersion": "68.1",
+    "build": 102560,
+    "version": 131
   },
   "pages": [
     "产品图标"

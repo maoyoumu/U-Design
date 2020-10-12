@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 28,
+        "length": 37,
         "location": 0
       }
     ],
-    "string": "父级：T-COLOR-BRAND-SECONDARY-7"
+    "string": "父级：T_COLOR_BRAND_BLACK_TRANSPARENT_20"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 326,
+    "width": 412,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 4}, {325, 16}}",
+  "glyphBounds": "{{0, 4}, {410, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,8 +65,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "父级：T-COLOR-BRAND-SEC",
+  "lineSpacingBehaviour": 3,
+  "name": "父级：T_COLOR_BRAND_BLA",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

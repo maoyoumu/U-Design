@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 106,
+    "height": 476,
+    "width": 760,
     "x": 0,
     "y": 0
   },
@@ -37,8 +37,8 @@
       "id": "CA9DE53F-A117-4601-9643-5B359CECE86F"
     },
     {
-      "class": "symbolInstance",
-      "id": "A0A65141-28C4-4E6A-A23F-F647FC92F2E7"
+      "class": "group",
+      "id": "DFEECCC2-2957-4CC3-9491-4C801F4A9671"
     }
   ],
   "name": "Padding Group 2",
