@@ -47,7 +47,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -68,7 +68,7 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "4981255A-98DE-404B-90BA-D783D8C27EE5"
+      "id": "2D5DE809-1214-43EB-A4A9-91EFD2C0B58F"
     },
     {
       "class": "rectangle",
