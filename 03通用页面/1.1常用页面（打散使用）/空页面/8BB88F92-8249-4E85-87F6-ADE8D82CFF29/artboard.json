@@ -34,7 +34,7 @@
     "height": 1416,
     "width": 1440,
     "x": 2572,
-    "y": -245
+    "y": -244.9999999999999
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -75,7 +75,22 @@
       "id": "BAD97AC3-12B2-4636-BC73-40296F057FBA"
     }
   ],
-  "name": "表单页",
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 24,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 89.41666666666667,
+    "guttersOutside": false,
+    "horizontalOffset": 56,
+    "isEnabled": true,
+    "numberOfColumns": 13,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1385
+  },
+  "name": "表单页-默认（10/12）",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

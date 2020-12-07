@@ -52,8 +52,8 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.09803921568627451,
-          "green": 0.7490196078431373,
+          "blue": 0.1803921568627451,
+          "green": 0.7686274509803921,
           "red": 1,
           "swatchID": "8F264E99-13F1-4B01-8A83-A6CF4D2584AE"
         },

@@ -23,6 +23,9 @@
   },
   "colorSpace": 0,
   "do_objectID": "f7207f41-afcd-11ea-bb79-cbe0d5b9f470",
+  "documentState": {
+    "_class": "documentState"
+  },
   "fontReferences": [
   ],
   "foreignLayerStyles": [
@@ -144,6 +147,166 @@
     }
   ],
   "foreignSwatches": [
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "5FED18C5-29D4-4CC9-9051-279296C93BCA",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "4EEC9ADE-E55E-4A9B-9D8C-C4F6137A4829",
+        "name": "01辅助色/02蓝色/T_COLOR_LEGEND_BLUE_7",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6745098039215687,
+          "green": 0.4352941176470588,
+          "red": 0.2
+        }
+      },
+      "remoteSwatchID": "87F7CD13-BE05-4809-9F7B-33B92234F154",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "8489C72C-01F2-4A65-865F-42C8793A6651",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "0599E47F-497A-453B-8E86-25467C31CD43",
+        "name": "01辅助色/04黄色/T_COLOR_LEGEND_YELLOW_7",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.04313725490196078,
+          "green": 0.596078431372549,
+          "red": 0.8509803921568627
+        }
+      },
+      "remoteSwatchID": "F04BF764-57A9-44C7-9C8C-EB351D4A61AF",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "1897A5FE-6A10-441B-8F42-DBE6226249E7",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "3215E6AF-7826-439E-A79C-A7F0A0A3E756",
+        "name": "01辅助色/05青色/T_COLOR_LEGEND_CYAN_6",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7254901960784313,
+          "green": 0.8666666666666667,
+          "red": 0.03529411764705882
+        }
+      },
+      "remoteSwatchID": "CACEEBD0-785D-4806-B51C-F4222BBAF5A2",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "4B1F75E2-A800-44B9-B930-DD6807F0B9F0",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "38E578FF-9A69-408B-85A3-077D9B0208A9",
+        "name": "01辅助色/05青色/T_COLOR_LEGEND_CYAN_7",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5647058823529412,
+          "green": 0.6745098039215687,
+          "red": 0.02745098039215686
+        }
+      },
+      "remoteSwatchID": "31D00E61-9F7C-463A-8DF7-593E1258CD94",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "93C50836-EDD1-4405-8EA5-8836333722FB",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "61F59A9E-F2F6-4C55-84AD-4D39330CFC95",
+        "name": "01辅助色/05青色/T_COLOR_LEGEND_CYAN_8",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3215686274509804,
+          "green": 0.384313725490196,
+          "red": 0.01568627450980392
+        }
+      },
+      "remoteSwatchID": "BCFBC1B1-4509-4D13-9D0B-682649C3182C",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "B91A534C-AAAC-465D-8F54-DC8710E196B1",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "2930094E-6DF9-4B49-BCEA-D32614B6B316",
+        "name": "01辅助色/01浅蓝色/T_COLOR_LEGEND_LIGHTBLUE_6",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9019607843137255,
+          "green": 0.7254901960784313,
+          "red": 0.1607843137254902
+        }
+      },
+      "remoteSwatchID": "3544FCF8-BF92-48AC-A4EA-D64E58AFDEF7",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "D9514223-A386-40C6-8552-6D39A6ED6E2B",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "D2E7414F-DACA-489C-8F8C-202DB4154FBE",
+        "name": "01辅助色/02蓝色/T_COLOR_LEGEND_BLUE_6",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8666666666666667,
+          "green": 0.5607843137254902,
+          "red": 0.2588235294117647
+        }
+      },
+      "remoteSwatchID": "86453B85-A616-4BB6-BA03-7DFBC1448E0F",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "BA241D17-B8DD-47CE-92DE-C4C6A5032A8A",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "E83A947D-F96E-4E4F-9A72-AC8FD7CA80ED",
+        "name": "01辅助色/00紫色/T_COLOR_LEGEND_PURPLE_6",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8431372549019608,
+          "green": 0.4,
+          "red": 0.6078431372549019
+        }
+      },
+      "remoteSwatchID": "47A84FDB-FAA5-4F53-A8EC-67009F74621A",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
+      "symbolPrivate": false
+    }
   ],
   "foreignSymbols": [
   ],
@@ -151,19 +314,22 @@
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
+    "do_objectID": "D81C5A6F-ADD6-11EA-BB79-C0E2D5988D1D",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "68.1",
-    "build": 102560,
-    "version": 131
+    "appVersion": "69",
+    "build": 107357,
+    "version": 134
   },
   "pages": [
-    "产品图标"
+    "产品图标",
+    "临时"
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
+    "do_objectID": "CE105E6F-ADD6-11EA-BB79-C0E2D5988311",
     "objects": [
     ]
   }

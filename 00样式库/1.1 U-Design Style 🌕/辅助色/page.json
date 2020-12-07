@@ -42,6 +42,14 @@
     {
       "class": "artboard",
       "id": "E732353F-6FF9-4D43-9FC4-DC19648AF7A6"
+    },
+    {
+      "class": "rectangle",
+      "id": "0235DB3F-09E6-4771-8EAE-D988881AB7CD"
+    },
+    {
+      "class": "artboard",
+      "id": "376670E3-1F31-4FC8-A7B8-3D93407A2F8F"
     }
   ],
   "name": "辅助色",

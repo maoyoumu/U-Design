@@ -41,6 +41,10 @@
   "layers": [
     {
       "class": "artboard",
+      "id": "9FA87BD4-A673-462A-A6D0-F6EEA120E986"
+    },
+    {
+      "class": "artboard",
       "id": "D640FDB3-26C6-40A6-B8DF-87625935978B"
     },
     {
@@ -54,6 +58,14 @@
     {
       "class": "artboard",
       "id": "E89060D0-3D01-4865-A6BE-68B4578101BD"
+    },
+    {
+      "class": "artboard",
+      "id": "A5C69161-703E-4330-B314-C07479A4979C"
+    },
+    {
+      "class": "artboard",
+      "id": "F375E893-42A1-4A34-88F3-E4198930EAD8"
     }
   ],
   "name": "Brand（原色）",

@@ -126,7 +126,8 @@
           "alpha": 1,
           "blue": 0.9450980392156862,
           "green": 0.8784313725490196,
-          "red": 0.8745098039215686
+          "red": 0.8745098039215686,
+          "swatchID": "443741C7-C001-4C14-A999-E085C5E4D0AC"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

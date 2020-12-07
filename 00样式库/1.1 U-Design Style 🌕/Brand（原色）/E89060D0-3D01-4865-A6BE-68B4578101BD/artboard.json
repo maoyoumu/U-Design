@@ -33,14 +33,14 @@
     "constrainProportions": false,
     "height": 3490,
     "width": 1880,
-    "x": -3788,
-    "y": 69
+    "x": -8017,
+    "y": 5229
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,15 +60,7 @@
   "layers": [
     {
       "class": "group",
-      "id": "38E1D5B4-C6A5-40EA-8A10-147052CCDE47"
-    },
-    {
-      "class": "group",
       "id": "9AD87629-0CD8-471C-9D68-2176CDD00001"
-    },
-    {
-      "class": "group",
-      "id": "65C80E45-EFFC-4DED-9792-79FB7D02CA9D"
     }
   ],
   "name": "黄色迭代",

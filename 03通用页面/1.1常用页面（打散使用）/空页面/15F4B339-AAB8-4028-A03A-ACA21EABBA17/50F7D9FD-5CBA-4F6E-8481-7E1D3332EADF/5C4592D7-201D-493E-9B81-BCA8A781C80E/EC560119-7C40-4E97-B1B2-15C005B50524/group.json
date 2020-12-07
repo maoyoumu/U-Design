@@ -41,8 +41,8 @@
       "id": "2CCA12D5-0A21-4E9C-BD1B-420EB05911AA"
     },
     {
-      "class": "symbolInstance",
-      "id": "6AE10F2E-6C89-42FF-A0FD-DF6F0F40FF6D"
+      "class": "group",
+      "id": "9E3C49BA-8A59-4970-AF7E-43FD1E6D7B8F"
     },
     {
       "class": "symbolInstance",
@@ -53,8 +53,8 @@
       "id": "C64FB977-5B7E-4FEF-9306-A72BE37DEB79"
     },
     {
-      "class": "symbolInstance",
-      "id": "811EA14F-D9EF-464D-A9E0-1F593DD22ACE"
+      "class": "group",
+      "id": "55F45CD7-A419-4BB0-9674-908930F95F62"
     }
   ],
   "name": "列",

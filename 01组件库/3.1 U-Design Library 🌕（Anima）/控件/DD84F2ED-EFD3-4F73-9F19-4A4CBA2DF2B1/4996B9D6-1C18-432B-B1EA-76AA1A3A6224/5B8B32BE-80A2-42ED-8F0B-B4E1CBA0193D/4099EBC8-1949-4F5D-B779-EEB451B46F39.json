@@ -33,18 +33,13 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "8930FE4D-5639-4BA1-83A3-28986489B8D4_stringValue",
+      "overrideName": "DE71A186-1623-4AD0-8F0C-1B989A68A6F9_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "463189AE-3E11-4ECE-BB54-3A588B240902_stringValue",
       "value": "表单名称"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "1C8B6D3D-AA92-47AE-974C-83CAA7BF5199_symbolID",
-      "value": "4626B7B3-F43E-40BC-B5FC-ECBBC1B10E15"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "1C8B6D3D-AA92-47AE-974C-83CAA7BF5199/D39F2A95-CE00-4865-89CF-882A69DC3A35_layerStyle",
-      "value": "6F402891-345F-419F-93D6-E8295FE845EE"
     }
   ],
   "resizingConstraint": 9,
@@ -98,6 +93,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "309E490B-4777-4D80-90F7-17C49F1F0410",
+  "symbolID": "EE0615E2-CF68-4FE3-A0F5-5BF368E8A1AF",
   "verticalSpacing": 0
 }

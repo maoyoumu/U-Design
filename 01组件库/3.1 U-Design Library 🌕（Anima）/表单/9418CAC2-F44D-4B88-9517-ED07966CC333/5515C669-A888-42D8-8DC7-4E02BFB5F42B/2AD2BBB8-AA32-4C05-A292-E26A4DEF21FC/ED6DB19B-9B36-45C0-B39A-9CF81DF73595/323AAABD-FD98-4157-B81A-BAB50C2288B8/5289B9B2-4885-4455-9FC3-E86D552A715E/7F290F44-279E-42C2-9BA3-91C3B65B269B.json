@@ -18,7 +18,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 28,
-    "width": 293.0000000000001,
+    "width": 354.0000000000002,
     "x": -5.684341886080801e-14,
     "y": 0
   },
@@ -126,7 +126,8 @@
           "alpha": 0,
           "blue": 1,
           "green": 1,
-          "red": 1
+          "red": 1,
+          "swatchID": "A76822D2-87B8-42A1-BD5D-BE1CDB5D3C3A"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -164,11 +165,6 @@
             }
           ],
           "to": "{0.5, 1}"
-        },
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref": "images/d08c1da1c88ba69c0bea5c9bc165b7413eec1d1d.png",
-          "_ref_class": "MSImageData"
         },
         "isEnabled": true,
         "noiseIndex": 0,
