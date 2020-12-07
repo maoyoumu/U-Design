@@ -1,0 +1,163 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A5C69161-703E-4330-B314-C07479A4979C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 4869,
+    "width": 1880,
+    "x": -5945,
+    "y": 69
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C68E502F-A542-45D1-970D-8CC52AFA84EE"
+    },
+    {
+      "class": "group",
+      "id": "5D0082F1-C522-4600-9370-8FF02AC2CECC"
+    },
+    {
+      "class": "group",
+      "id": "A408F002-9B83-441C-86B6-A677AB2FAAE5"
+    },
+    {
+      "class": "group",
+      "id": "65C80E45-EFFC-4DED-9792-79FB7D02CA9D"
+    },
+    {
+      "class": "group",
+      "id": "D735D6F0-4FF5-45F0-94DA-7BE72A06DF20"
+    },
+    {
+      "class": "group",
+      "id": "55635566-02BA-4D2C-AACB-F026E25A3829"
+    },
+    {
+      "class": "group",
+      "id": "306F3881-BECD-4F2B-9438-910020BA1FC4"
+    },
+    {
+      "class": "group",
+      "id": "AEB2501C-505C-4EE3-9F89-20BEB13AB139"
+    },
+    {
+      "class": "text",
+      "id": "CF178A0E-6BDA-435B-83A9-D9C0799DABE9"
+    },
+    {
+      "class": "group",
+      "id": "206D25B7-2CF4-4B18-AB96-C439DB53E311"
+    }
+  ],
+  "name": "功能色-迭代（亮）",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "D4FE9474-367F-4478-B945-208F2F1138F4",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

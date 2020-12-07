@@ -23,6 +23,9 @@
   },
   "colorSpace": 1,
   "do_objectID": "1B408FE5-1445-4091-8842-D5C591FBD21C",
+  "documentState": {
+    "_class": "documentState"
+  },
   "fontReferences": [
   ],
   "foreignLayerStyles": [
@@ -68,7 +71,7 @@
             "blendMode": 0,
             "opacity": 1
           },
-          "do_objectID": "588D6E5B-9D80-4B6B-A025-CB71DFD5E628",
+          "do_objectID": "20D6A915-26B7-45E2-A621-BF098FA0E802",
           "endMarkerType": 0,
           "fills": [
             {
@@ -77,8 +80,9 @@
                 "_class": "color",
                 "alpha": 1,
                 "blue": 0.2,
-                "green": 0.08627450980392154,
-                "red": 0.0392156862745098
+                "green": 0.08627450980392158,
+                "red": 0.0392156862745098,
+                "swatchID": "1ECB5412-CC7B-4B1F-914E-B8FB0A1CF634"
               },
               "contextSettings": {
                 "_class": "graphicsContextSettings",
@@ -116,11 +120,6 @@
                   }
                 ],
                 "to": "{0.5, 1}"
-              },
-              "image": {
-                "_class": "MSJSONFileReference",
-                "_ref": "images/d08c1da1c88ba69c0bea5c9bc165b7413eec1d1d.png",
-                "_ref_class": "MSImageData"
               },
               "isEnabled": true,
               "noiseIndex": 0,
@@ -184,7 +183,7 @@
             "blendMode": 0,
             "opacity": 1
           },
-          "do_objectID": "161943CB-E795-4A89-9F48-16BDA593D0F1",
+          "do_objectID": "063BFD97-0984-485B-9C4A-40234CB4C5F9",
           "endMarkerType": 0,
           "fills": [
             {
@@ -194,7 +193,8 @@
                 "alpha": 0,
                 "blue": 1,
                 "green": 1,
-                "red": 1
+                "red": 1,
+                "swatchID": "F45E766E-F2B5-491F-9195-1C4BF91FE9A8"
               },
               "contextSettings": {
                 "_class": "graphicsContextSettings",
@@ -232,11 +232,6 @@
                   }
                 ],
                 "to": "{0.5, 1}"
-              },
-              "image": {
-                "_class": "MSJSONFileReference",
-                "_ref": "images/d08c1da1c88ba69c0bea5c9bc165b7413eec1d1d.png",
-                "_ref_class": "MSImageData"
               },
               "isEnabled": true,
               "noiseIndex": 0,
@@ -300,7 +295,7 @@
             "blendMode": 0,
             "opacity": 1
           },
-          "do_objectID": "8E709E29-3330-4658-ABC9-46D94397ECAB",
+          "do_objectID": "CCED9E37-A197-4806-B490-58B43DBDE820",
           "endMarkerType": 0,
           "fills": [
             {
@@ -309,8 +304,9 @@
                 "_class": "color",
                 "alpha": 1,
                 "blue": 0.4588235294117647,
-                "green": 0.3764705882352942,
-                "red": 0.3215686274509804
+                "green": 0.3764705882352941,
+                "red": 0.3215686274509804,
+                "swatchID": "BDB0B687-7FA9-4EF3-9D74-563768ECF004"
               },
               "contextSettings": {
                 "_class": "graphicsContextSettings",
@@ -376,6 +372,66 @@
     }
   ],
   "foreignSwatches": [
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "01DB17EC-F87E-41DB-8115-A9926009698B",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "BDB0B687-7FA9-4EF3-9D74-563768ECF004",
+        "name": "00常规色/02中立色/灰9",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4588235294117647,
+          "green": 0.3764705882352941,
+          "red": 0.3215686274509804
+        }
+      },
+      "remoteSwatchID": "010057D0-9C02-43A9-A516-DC975D0D6C1B",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "FA9CCA73-5E25-4942-90AB-0ECAC5F39AF6",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "1ECB5412-CC7B-4B1F-914E-B8FB0A1CF634",
+        "name": "00常规色/00内置色/黑色",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2,
+          "green": 0.08627450980392158,
+          "red": 0.0392156862745098
+        }
+      },
+      "remoteSwatchID": "519E2721-4E9B-4878-90E4-87F6CF55BE76",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "EE357CE4-5B8C-469F-8D8B-22190D342D92",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "F45E766E-F2B5-491F-9195-1C4BF91FE9A8",
+        "name": "00常规色/00内置色/透明色",
+        "value": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      },
+      "remoteSwatchID": "A76822D2-87B8-42A1-BD5D-BE1CDB5D3C3A",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
+      "symbolPrivate": false
+    }
   ],
   "foreignSymbols": [
   ],
@@ -383,19 +439,21 @@
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
+    "do_objectID": "347CAACB-165E-4091-8842-DEC791DAAB71",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "68.1",
-    "build": 102560,
-    "version": 131
+    "appVersion": "69",
+    "build": 107357,
+    "version": 134
   },
   "pages": [
     "控件"
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
+    "do_objectID": "2270AECB-165E-4091-8842-DEC791DAA57D",
     "objects": [
     ]
   },

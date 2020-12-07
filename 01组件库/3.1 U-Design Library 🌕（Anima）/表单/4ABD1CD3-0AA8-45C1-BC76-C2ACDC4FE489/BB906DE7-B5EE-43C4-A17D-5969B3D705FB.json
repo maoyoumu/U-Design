@@ -31,6 +31,41 @@
   "name": "表单",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A2FB7FE4-6206-42D8-B301-F0C82390314A_symbolID",
+      "value": "EE0615E2-CF68-4FE3-A0F5-5BF368E8A1AF"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A2FB7FE4-6206-42D8-B301-F0C82390314A/463189AE-3E11-4ECE-BB54-3A588B240902_stringValue",
+      "value": "表单名称"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A2FB7FE4-6206-42D8-B301-F0C82390314A/DE71A186-1623-4AD0-8F0C-1B989A68A6F9_symbolID",
+      "value": "4626B7B3-F43E-40BC-B5FC-ECBBC1B10E15"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A2FB7FE4-6206-42D8-B301-F0C82390314A/DE71A186-1623-4AD0-8F0C-1B989A68A6F9/D39F2A95-CE00-4865-89CF-882A69DC3A35_layerStyle",
+      "value": "2D9491FC-FA80-44AF-8E20-2642B3ADE3D8[97DA42DD-819B-49A8-AC46-933BD66EBFDA]"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4099EBC8-1949-4F5D-B779-EEB451B46F39_symbolID",
+      "value": "EE0615E2-CF68-4FE3-A0F5-5BF368E8A1AF"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4099EBC8-1949-4F5D-B779-EEB451B46F39/DE71A186-1623-4AD0-8F0C-1B989A68A6F9_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4099EBC8-1949-4F5D-B779-EEB451B46F39/463189AE-3E11-4ECE-BB54-3A588B240902_stringValue",
+      "value": "表单名称"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
