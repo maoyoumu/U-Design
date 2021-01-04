@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 92,
+        "length": 52,
         "location": 0
       }
     ],
-    "string": "box-shadow: inset 0 5px 6px -6px rgba(0,0,0,0.12), inset 0 18px 18px -18px rgba(0,0,0,0.12);"
+    "string": "box-shadow:inset 0 10px 8px -8px rgba(0, 0, 0, 0.12)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -57,7 +57,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 4}, {503, 42}}",
+  "glyphBounds": "{{0, 4}, {416, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "box-shadow: inset 0",
+  "name": "box-shadow:inset 0 1",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

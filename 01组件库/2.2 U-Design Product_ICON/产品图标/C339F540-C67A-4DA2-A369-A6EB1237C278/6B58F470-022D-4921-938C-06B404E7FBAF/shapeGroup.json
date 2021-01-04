@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 19.9849875,
-    "width": 20.01000000000001,
-    "x": 1.994999999999999,
-    "y": 2.020012500000012
+    "constrainProportions": true,
+    "height": 18,
+    "width": 18.02252816020026,
+    "x": 2.988735919899863,
+    "y": 3
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -154,6 +154,25 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 18,
+            "enabled": 1,
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 18.02253
+          },
+          "automatic": 1,
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
   },
   "windingRule": 1
 }

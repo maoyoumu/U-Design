@@ -27,6 +27,16 @@
     "_class": "documentState"
   },
   "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "F31FD3C0-8DAF-4A5A-9A62-9A6984D41942",
+      "fontFamilyName": "Tiro Sanskrit",
+      "fontFileName": "TiroSanskrit.ttc",
+      "options": 0,
+      "postscriptNames": [
+        "TiroSanskrit"
+      ]
+    }
   ],
   "foreignLayerStyles": [
     {
