@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 7,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "#72221D"
+    "string": "T_COLOR_LEGEND_RED_8"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 68,
+    "width": 212,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 6}, {67, 13}}",
+  "glyphBounds": "{{0, 6}, {211, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "#72221D",
+  "name": "T_COLOR_LEGEND_RED_8",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

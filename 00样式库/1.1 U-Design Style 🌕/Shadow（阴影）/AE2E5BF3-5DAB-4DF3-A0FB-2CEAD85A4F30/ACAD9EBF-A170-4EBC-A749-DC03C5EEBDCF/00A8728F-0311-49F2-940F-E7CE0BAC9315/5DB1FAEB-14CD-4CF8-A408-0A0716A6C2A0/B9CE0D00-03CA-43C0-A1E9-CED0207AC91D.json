@@ -27,15 +27,15 @@
             "maximumLineHeight": 24,
             "minimumLineHeight": 24
           },
-          "strikethroughStyle": 1,
+          "strikethroughStyle": 0,
           "textStyleVerticalAlignmentKey": 1,
           "underlineStyle": 0
         },
-        "length": 17,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "T_SHADOW_INSET_1\t"
+    "string": "T_SHADOW_INSET_LEFT"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 168,
+    "width": 174,
     "x": 0,
     "y": 29
   },
-  "glyphBounds": "{{0, 6}, {143, 13}}",
+  "glyphBounds": "{{0, 6}, {173, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,8 +67,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "T_SHADOW_INSET_1",
+  "lineSpacingBehaviour": 3,
+  "name": "T_SHADOW_INSET_LEFT",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -142,7 +142,7 @@
           "maximumLineHeight": 24,
           "minimumLineHeight": 24
         },
-        "strikethroughStyle": 1,
+        "strikethroughStyle": 0,
         "textStyleVerticalAlignmentKey": 1,
         "underlineStyle": 0
       },

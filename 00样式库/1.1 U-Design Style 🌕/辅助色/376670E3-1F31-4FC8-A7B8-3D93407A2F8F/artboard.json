@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1787,
+    "height": 3136,
     "width": 1440,
     "x": 820,
     "y": -3944
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,6 +56,10 @@
     {
       "class": "group",
       "id": "0308A0A6-690B-4FDF-9397-F0AD17688F36"
+    },
+    {
+      "class": "group",
+      "id": "D28EBC51-B6F8-4DAA-ADB5-4F3741CA3829"
     }
   ],
   "name": "应用场景-04辅助色",

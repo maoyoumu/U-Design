@@ -1,0 +1,140 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BE67B60B-5D5D-488E-A2AD-444BB774A194",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 84,
+    "width": 96,
+    "x": 196,
+    "y": 174
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3F83E64F-6C87-42A7-8D2A-3FDC2BD5EDF3"
+    },
+    {
+      "class": "text",
+      "id": "1B74EDE9-2358-4F6D-BB8E-C32013FD90C2"
+    },
+    {
+      "class": "text",
+      "id": "14A4A287-61F6-4493-A6EA-F5C890109F10"
+    },
+    {
+      "class": "text",
+      "id": "FAA462F8-9E35-4CCA-80B7-08119989D024"
+    }
+  ],
+  "name": "6.0反馈组件/6.2气泡提示（Popover )/📦示例/居右/单行文字",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "98DEF000-AC6B-4BC1-8481-FD4F0F3D89FB",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "36D5B9A5-5143-47BB-9892-38617BD2A268",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 92,
+          "width": 300,
+          "x": 173,
+          "y": 179
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "3FBF60DE-E8EA-4D0C-B030-95DCFDBB011C",
+        "symbolID": "75FCFA3B-C8B7-4347-B2C2-593AA14F56C4"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "36D5B9A5-5143-47BB-9892-38617BD2A268",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 92,
+          "width": 300,
+          "x": 173,
+          "y": 179
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "3FBF60DE-E8EA-4D0C-B030-95DCFDBB011C",
+        "symbolID": "75FCFA3B-C8B7-4347-B2C2-593AA14F56C4"
+      }
+    }
+  }
+}
