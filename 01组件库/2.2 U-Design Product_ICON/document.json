@@ -81,7 +81,7 @@
             "blendMode": 0,
             "opacity": 1
           },
-          "do_objectID": "8E709E29-3330-4658-ABC9-46D94397ECAB",
+          "do_objectID": "CCED9E37-A197-4806-B490-58B43DBDE820",
           "endMarkerType": 0,
           "fills": [
             {
@@ -90,8 +90,9 @@
                 "_class": "color",
                 "alpha": 1,
                 "blue": 0.4588235294117647,
-                "green": 0.3764705882352942,
-                "red": 0.3215686274509804
+                "green": 0.3764705882352941,
+                "red": 0.3215686274509804,
+                "swatchID": "6AA2CAC3-B51A-49B3-BB1F-1A35F20D3108"
               },
               "contextSettings": {
                 "_class": "graphicsContextSettings",
@@ -168,9 +169,9 @@
         "value": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6745098039215687,
-          "green": 0.4352941176470588,
-          "red": 0.2
+          "blue": 0.796078431372549,
+          "green": 0.443137254901961,
+          "red": 0.09803921568627447
         }
       },
       "remoteSwatchID": "87F7CD13-BE05-4809-9F7B-33B92234F154",
@@ -208,9 +209,9 @@
         "value": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7254901960784313,
-          "green": 0.8666666666666667,
-          "red": 0.03529411764705882
+          "blue": 0.7960784313725489,
+          "green": 0.9176470588235294,
+          "red": 0.2627450980392158
         }
       },
       "remoteSwatchID": "CACEEBD0-785D-4806-B51C-F4222BBAF5A2",
@@ -228,9 +229,9 @@
         "value": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5647058823529412,
-          "green": 0.6745098039215687,
-          "red": 0.02745098039215686
+          "blue": 0.6313725490196077,
+          "green": 0.7686274509803922,
+          "red": 0.1215686274509804
         }
       },
       "remoteSwatchID": "31D00E61-9F7C-463A-8DF7-593E1258CD94",
@@ -248,9 +249,9 @@
         "value": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3215686274509804,
-          "green": 0.384313725490196,
-          "red": 0.01568627450980392
+          "blue": 0.4901960784313725,
+          "green": 0.6313725490196078,
+          "red": 0.07058823529411763
         }
       },
       "remoteSwatchID": "BCFBC1B1-4509-4D13-9D0B-682649C3182C",
@@ -268,9 +269,9 @@
         "value": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9019607843137255,
-          "green": 0.7254901960784313,
-          "red": 0.1607843137254902
+          "blue": 0.9529411764705882,
+          "green": 0.8156862745098037,
+          "red": 0.2274509803921569
         }
       },
       "remoteSwatchID": "3544FCF8-BF92-48AC-A4EA-D64E58AFDEF7",
@@ -288,9 +289,9 @@
         "value": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8666666666666667,
-          "green": 0.5607843137254902,
-          "red": 0.2588235294117647
+          "blue": 0.9411764705882353,
+          "green": 0.5647058823529413,
+          "red": 0.2352941176470589
         }
       },
       "remoteSwatchID": "86453B85-A616-4BB6-BA03-7DFBC1448E0F",
@@ -308,12 +309,52 @@
         "value": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8431372549019608,
-          "green": 0.4,
-          "red": 0.6078431372549019
+          "blue": 0.8117647058823529,
+          "green": 0.3686274509803922,
+          "red": 0.5764705882352942
         }
       },
       "remoteSwatchID": "47A84FDB-FAA5-4F53-A8EC-67009F74621A",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "D1549968-34F5-4B12-80C5-980C5351F19E",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "6AA2CAC3-B51A-49B3-BB1F-1A35F20D3108",
+        "name": "00常规色/02中立色/灰9",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4588235294117647,
+          "green": 0.3764705882352941,
+          "red": 0.3215686274509804
+        }
+      },
+      "remoteSwatchID": "010057D0-9C02-43A9-A516-DC975D0D6C1B",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "E1779728-5932-4089-8CB7-C0A189E90238",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "8A495073-7E96-482B-A39B-343ED1B3566D",
+        "name": "00常规色/00内置色/黑色",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2,
+          "green": 0.08627450980392158,
+          "red": 0.0392156862745098
+        }
+      },
+      "remoteSwatchID": "519E2721-4E9B-4878-90E4-87F6CF55BE76",
       "sourceLibraryName": "1.1 U-Design Style 🌕",
       "symbolPrivate": false
     }
@@ -321,6 +362,94 @@
   "foreignSymbols": [
   ],
   "foreignTextStyles": [
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "do_objectID": "03185746-4A01-40B6-AD25-7B81C1BF1280",
+      "libraryID": "EFD72D1D-1141-468D-9E3E-961BBC85EBC4",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "AE38DA2F-6082-4454-8806-99D3033291B6",
+        "name": "字符/12px/常规/居左/02浅色文本（T_COLOR_TEXT_DEFAULT_LIGHT）",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "2D6D1E0C-6235-4B9A-AC58-A75AEEBCFE73",
+          "endMarkerType": 0,
+          "fills": [
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4588235294117647,
+                "green": 0.3764705882352941,
+                "red": 0.3215686274509804,
+                "swatchID": "6AA2CAC3-B51A-49B3-BB1F-1A35F20D3108"
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "PingFangSC-Regular",
+                  "size": 12
+                }
+              },
+              "kerning": 0.06666668,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "maximumLineHeight": 20,
+                "minimumLineHeight": 20
+              },
+              "textStyleVerticalAlignmentKey": 0
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "DDBCCBA9-5B29-4420-BE2F-1934D4CC6F7F",
+      "sourceLibraryName": "1.1 U-Design Style 🌕",
+      "symbolPrivate": false
+    }
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -329,8 +458,8 @@
     ]
   },
   "meta": {
-    "appVersion": "69",
-    "build": 107357,
+    "appVersion": "70.3",
+    "build": 109109,
     "version": 134
   },
   "pages": [

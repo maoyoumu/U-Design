@@ -53,6 +53,38 @@
     },
     {
       "class": "symbolMaster",
+      "id": "760224E9-AEEF-469B-A5A8-D13327259815"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C446BF62-254D-44D2-A1C9-1ADC4254773C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "AB9778A6-3AEF-4D6C-BE5B-3B9D6398A4FE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "06F71165-B621-4E23-A113-3F9BADE1D6F9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "818F9EF3-7881-43AB-8219-BCCE63EFF611"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "641CA1FC-088E-410D-AC8B-F5352EC89D9D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B43BD08B-954D-44F4-B834-E58B3212D4D3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F24167B0-5F9A-467C-9A1A-5A89B3DB3B05"
+    },
+    {
+      "class": "symbolMaster",
       "id": "E8F81B52-48D8-464E-AF13-6B20898363C0"
     },
     {
@@ -430,6 +462,22 @@
     {
       "class": "bitmap",
       "id": "04D830E7-FB30-4E45-9F44-ED98C9460C4C"
+    },
+    {
+      "class": "group",
+      "id": "F7B7BFAF-A84F-4ED1-AC09-B6DE9B3DA37A"
+    },
+    {
+      "class": "text",
+      "id": "03D60C88-ED82-4B72-BBBC-5221AF3C0C78"
+    },
+    {
+      "class": "text",
+      "id": "07F1DDED-BADF-4A98-A222-3F5A35726A39"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4FE2BD84-D66A-463B-8B2D-1137BCF82593"
     }
   ],
   "name": "产品图标",

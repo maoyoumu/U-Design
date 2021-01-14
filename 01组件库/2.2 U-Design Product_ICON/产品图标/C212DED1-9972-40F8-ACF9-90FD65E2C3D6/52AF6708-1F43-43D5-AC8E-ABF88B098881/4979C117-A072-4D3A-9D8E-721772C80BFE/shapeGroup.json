@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18.41318487322376,
-    "width": 20.01000000000001,
-    "x": 0,
-    "y": 3.197442310920451e-14
+    "height": 18.41318487320978,
+    "width": 20.01,
+    "x": 1.06581410364015e-14,
+    "y": 6.039613253960852e-14
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -91,8 +91,9 @@
           "_class": "color",
           "alpha": 1,
           "blue": 0.4588235294117647,
-          "green": 0.3764705882352942,
-          "red": 0.3215686274509804
+          "green": 0.3764705882352941,
+          "red": 0.3215686274509804,
+          "swatchID": "010057D0-9C02-43A9-A516-DC975D0D6C1B"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

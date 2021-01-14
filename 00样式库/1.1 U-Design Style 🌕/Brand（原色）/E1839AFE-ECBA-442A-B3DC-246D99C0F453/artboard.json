@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,7 +59,15 @@
     },
     {
       "class": "group",
-      "id": "FDE466F2-25CF-4198-A700-46944B1F444B"
+      "id": "E1778E69-DE5E-4F2A-AA76-B959882AE66C"
+    },
+    {
+      "class": "rectangle",
+      "id": "DBD4E7F8-21A9-4A82-80D1-C008A85969EA"
+    },
+    {
+      "class": "text",
+      "id": "AB0263EC-E745-4355-825C-5CE7A21BAD69"
     }
   ],
   "name": "紫色迭代2",
